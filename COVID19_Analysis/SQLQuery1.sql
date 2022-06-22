@@ -112,30 +112,91 @@ SELECT *
 
 
 --Total Population and Vaccination :::
-SELECT deaths.continent, deaths.location, deaths.date, deaths.population, vac.new_vaccinations,
-	SUM(CONVERT(int, vac.new_vaccinations)) OVER (PARTITION BY deaths.location ORDER BY deaths.location, deaths.date) AS cumulative_sum
+								-- Here cumulative sum is basically the sums over the new vaccinations. If my cum sum is already 1 then if a new vaccination is being completed then the cum sum becomes 1+1=2 and so on. By this, we can get the total number of vaccination done, by a given date....As, the cum sum has to increase as the vaccination numbers increase, so the whole thing has to be ordered by date
+
+SELECT deaths.continent, deaths.location, deaths.date, deaths.population, vac.new_vaccinations, 
+	SUM(CAST(vac.new_vaccinations AS BIGINT)) OVER (PARTITION BY deaths.location ORDER BY deaths.date) AS cumulative_sum
+	-- As, the SUM can not fit into INT (ie. within 2^31 - 1), So, we needed BIGINT
 	FROM Project_COVID19..covid_death$ deaths    -- we used alias as deaths and vac for convenience.
 	JOIN Project_COVID19..covid_vaccination$ vac
 	ON deaths.location = vac.location
 		AND deaths.date = vac.date
 	WHERE deaths.continent IS NOT NULL
-	ORDER BY 2,3
+	ORDER BY 2, 3
 
 
+							-- T E M P O R A R Y   T A B L E
 
--- USE CTE
-WITH PopvsVac (continent, location, date, population, new_vaccinations, Cumulative_Sum)
+							-- Now suppose we wanna use the cumulative sum column to operate something on. Like we wanna determine the percentage of the population vaccinated at a given date. Then we have to divide cumulative sum by total population and then mult ith 100. But, it will show ERROR. As cumulative_sum is NOT A DEFAULT COLUMN. We made it. So, we wanna build a temporary table at this point.
+							--	Two procedures 
+								--1. CTE 
+								--2. temp table
+
+
+							-- USE CTE
+									-- We are gonna build a table named Population_Vaccination
+
+WITH Population_Vaccination(continent, location, date, population, new_vaccinations,
+				Cumulative_Sum)					-- Notice, here we did not use deaths.population or vac.population, deaths.date etc, as we are not								joining two tables in this particular query.
 AS
 (
-SELECT death.continent, death.location, death.date, death.population, vac.new_vaccinations
-, SUM(CONVERT(int,vac.new_vaccinations)) OVER (PARTITION BY death.location ORDER BY death.location, death.date) AS Cumulative_Sum
---, (Cumulative_Sum/population)*100
-	FROM Project_COVID19..covid_death$ death
+SELECT deaths.continent, deaths.location, deaths.date, deaths.population, vac.new_vaccinations, 
+	SUM(CONVERT(bigint,vac.new_vaccinations)) OVER (PARTITION BY deaths.location ORDER BY deaths.date) AS Cumulative_Sum
+	FROM Project_COVID19..covid_death$ deaths
 	JOIN Project_COVID19..covid_vaccination$ vac
-		ON death.location = vac.location
-		AND death.date = vac.date
-	WHERE death.continent IS NOT NULL
---order by 2,3
+		ON deaths.location = vac.location
+		AND deaths.date = vac.date
+	WHERE deaths.continent IS NOT NULL
 )
-SELECT *, (Cumulative_Sum/population)*100
-From PopvsVac
+								-- Till this part, the temporary table has got created with the extra column called Cumulative_Sum. And now we are gonna use it to operate on the Cumulative_Sum column.
+SELECT *, (Cumulative_Sum/population)*100 AS cumulative_percentage_populated
+From Population_Vaccination
+								-- Thus we get the percentage population on EACH DATE.
+
+
+
+
+								-- TEMP TABLE
+										-- We will create a table called Population_vs_Vaccination as a temporary table.
+
+DROP TABLE IF EXISTS #Population_vs_Vaccination
+CREATE TABLE #Population_vs_Vaccination
+(
+continent nvarchar(255),
+location nvarchar(255),
+date datetime,
+population numeric,
+new_vaccinations numeric,
+Cumulative_Sum numeric
+
+) INSERT into #Population_vs_Vaccination
+SELECT deaths.continent, deaths.location, deaths.date, deaths.population, vac.new_vaccinations, 
+	SUM(CONVERT(bigint,vac.new_vaccinations)) OVER (PARTITION BY deaths.location ORDER BY deaths.date) AS Cumulative_Sum
+	FROM Project_COVID19..covid_death$ deaths
+	JOIN Project_COVID19..covid_vaccination$ vac
+		ON deaths.location = vac.location
+		AND deaths.date = vac.date
+	WHERE deaths.continent IS NOT NULL
+
+SELECT *, (Cumulative_Sum/population)*100 AS percentage_population_vaccination
+FROM #Population_vs_Vaccination
+
+
+
+
+		
+		-- CREATING VIEW FOR LATER DATA VISUALIZATION
+
+GO
+CREATE VIEW view_total_vaccination 
+AS 
+SELECT deaths.continent, deaths.location, deaths.date, deaths.population, vac.new_vaccinations, 
+	SUM(CONVERT(bigint,vac.new_vaccinations)) OVER (PARTITION BY deaths.location ORDER BY deaths.date) AS Cumulative_Sum
+	FROM Project_COVID19..covid_death$ deaths
+	JOIN Project_COVID19..covid_vaccination$ vac
+		ON deaths.location = vac.location
+		AND deaths.date = vac.date
+	WHERE deaths.continent IS NOT NULL
+
+SELECT *
+FROM view_total_vaccination
