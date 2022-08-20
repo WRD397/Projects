@@ -1,0 +1,4311 @@
+"customer_state","customer_city",city_count,state_count
+SP,sao paulo,15540,41746
+SP,campinas,1444,41746
+SP,guarulhos,1189,41746
+SP,sao bernardo do campo,938,41746
+SP,santo andre,796,41746
+SP,osasco,746,41746
+SP,santos,713,41746
+SP,sao jose dos campos,691,41746
+SP,sorocaba,633,41746
+SP,jundiai,565,41746
+SP,ribeirao preto,510,41746
+SP,barueri,433,41746
+SP,mogi das cruzes,383,41746
+SP,piracicaba,369,41746
+SP,sao jose do rio preto,335,41746
+SP,carapicuiba,328,41746
+SP,maua,323,41746
+SP,praia grande,311,41746
+SP,taboao da serra,296,41746
+SP,diadema,286,41746
+SP,indaiatuba,280,41746
+SP,sao caetano do sul,277,41746
+SP,bauru,273,41746
+SP,taubate,270,41746
+SP,cotia,250,41746
+SP,sao carlos,236,41746
+SP,suzano,234,41746
+SP,guaruja,226,41746
+SP,americana,224,41746
+SP,marilia,196,41746
+SP,jacarei,194,41746
+SP,limeira,190,41746
+SP,santana de parnaiba,185,41746
+SP,sumare,183,41746
+SP,valinhos,183,41746
+SP,itaquaquecetuba,172,41746
+SP,itapevi,170,41746
+SP,embu das artes,165,41746
+SP,sao vicente,163,41746
+SP,presidente prudente,161,41746
+SP,franca,161,41746
+SP,atibaia,159,41746
+SP,araraquara,155,41746
+SP,rio claro,154,41746
+SP,braganca paulista,146,41746
+SP,hortolandia,145,41746
+SP,aracatuba,141,41746
+SP,itu,136,41746
+SP,paulinia,130,41746
+SP,santa barbara d'oeste,119,41746
+SP,ferraz de vasconcelos,111,41746
+SP,franco da rocha,109,41746
+SP,ribeirao pires,109,41746
+SP,caieiras,102,41746
+SP,cajamar,101,41746
+SP,botucatu,101,41746
+SP,pindamonhangaba,101,41746
+SP,francisco morato,100,41746
+SP,guaratingueta,98,41746
+SP,itapecerica da serra,98,41746
+SP,itatiba,97,41746
+SP,salto,95,41746
+SP,vinhedo,95,41746
+SP,araras,94,41746
+SP,mogi-guacu,93,41746
+SP,caraguatatuba,89,41746
+SP,jandira,85,41746
+SP,votorantim,85,41746
+SP,poa,85,41746
+SP,assis,84,41746
+SP,lorena,83,41746
+SP,sao joao da boa vista,82,41746
+SP,varzea paulista,80,41746
+SP,ourinhos,80,41746
+SP,itanhaem,80,41746
+SP,birigui,79,41746
+SP,cubatao,79,41746
+SP,sao roque,79,41746
+SP,itapetininga,78,41746
+SP,mogi mirim,76,41746
+SP,ubatuba,76,41746
+SP,tatui,75,41746
+SP,mairipora,75,41746
+SP,catanduva,75,41746
+SP,cacapava,74,41746
+SP,jau,74,41746
+SP,barretos,73,41746
+SP,aruja,69,41746
+SP,pirassununga,69,41746
+SP,amparo,67,41746
+SP,avare,64,41746
+SP,votuporanga,63,41746
+SP,sertaozinho,62,41746
+SP,jaguariuna,62,41746
+SP,sao sebastiao,60,41746
+SP,cruzeiro,56,41746
+SP,itapira,55,41746
+SP,lins,55,41746
+SP,jaboticabal,54,41746
+SP,itapeva,53,41746
+SP,fernandopolis,53,41746
+SP,tupa,53,41746
+SP,matao,52,41746
+SP,cosmopolis,52,41746
+SP,bebedouro,51,41746
+SP,boituva,50,41746
+SP,leme,50,41746
+SP,registro,50,41746
+SP,bertioga,49,41746
+SP,campo limpo paulista,48,41746
+SP,embu-guacu,46,41746
+SP,ilhabela,46,41746
+SP,lencois paulista,45,41746
+SP,louveira,44,41746
+SP,peruibe,44,41746
+SP,itupeva,44,41746
+SP,sao jose do rio pardo,44,41746
+SP,vargem grande paulista,44,41746
+SP,andradina,43,41746
+SP,artur nogueira,43,41746
+SP,mongagua,42,41746
+SP,monte mor,40,41746
+SP,nova odessa,38,41746
+SP,olimpia,38,41746
+SP,tremembe,38,41746
+SP,tiete,37,41746
+SP,penapolis,37,41746
+SP,pedreira,36,41746
+SP,guaira,36,41746
+SP,adamantina,36,41746
+SP,capivari,35,41746
+SP,santa fe do sul,35,41746
+SP,santa cruz do rio pardo,35,41746
+SP,sao joaquim da barra,34,41746
+SP,mococa,34,41746
+SP,monte alto,34,41746
+SP,taquaritinga,33,41746
+SP,promissao,32,41746
+SP,ibiuna,31,41746
+SP,ituverava,30,41746
+SP,jales,30,41746
+SP,cerquilho,30,41746
+SP,santa isabel,30,41746
+SP,barra bonita,29,41746
+SP,itarare,29,41746
+SP,mirassol,29,41746
+SP,orlandia,29,41746
+SP,itapolis,28,41746
+SP,garca,28,41746
+SP,batatais,28,41746
+SP,dracena,28,41746
+SP,capao bonito,28,41746
+SP,porto ferreira,28,41746
+SP,presidente venceslau,26,41746
+SP,rio grande da serra,26,41746
+SP,campos do jordao,26,41746
+SP,cachoeira paulista,25,41746
+SP,aparecida,25,41746
+SP,mairinque,25,41746
+SP,holambra,24,41746
+SP,ilha solteira,24,41746
+SP,cravinhos,24,41746
+SP,aguas de lindoia,23,41746
+SP,piedade,23,41746
+SP,presidente epitacio,23,41746
+SP,porto feliz,22,41746
+SP,rancharia,22,41746
+SP,piracaia,22,41746
+SP,ibitinga,22,41746
+SP,juquitiba,21,41746
+SP,pederneiras,21,41746
+SP,sao manuel,21,41746
+SP,santo antonio de posse,20,41746
+SP,tambau,20,41746
+SP,paraguacu paulista,20,41746
+SP,barrinha,20,41746
+SP,conchal,19,41746
+SP,nova granada,19,41746
+SP,piraju,19,41746
+SP,pereira barreto,19,41746
+SP,monte azul paulista,19,41746
+SP,jarinu,19,41746
+SP,guararapes,19,41746
+SP,socorro,19,41746
+SP,viradouro,18,41746
+SP,santa rita do passa quatro,18,41746
+SP,pitangueiras,18,41746
+SP,espirito santo do pinhal,18,41746
+SP,ipero,18,41746
+SP,iracemapolis,18,41746
+SP,palmital,18,41746
+SP,cerqueira cesar,18,41746
+SP,bom jesus dos perdoes,18,41746
+SP,bonfim paulista,18,41746
+SP,bastos,17,41746
+SP,americo brasiliense,17,41746
+SP,novo horizonte,17,41746
+SP,laranjal paulista,17,41746
+SP,pompeia,17,41746
+SP,santo anastacio,17,41746
+SP,pirapora do bom jesus,16,41746
+SP,taquarituba,16,41746
+SP,osvaldo cruz,16,41746
+SP,cordeiropolis,16,41746
+SP,cajati,16,41746
+SP,candido mota,16,41746
+SP,agudos,16,41746
+SP,cunha,15,41746
+SP,bariri,15,41746
+SP,pariquera-acu,15,41746
+SP,junqueiropolis,15,41746
+SP,santa adelia,15,41746
+SP,pirapozinho,14,41746
+SP,santa rosa de viterbo,14,41746
+SP,serra negra,14,41746
+SP,vargem grande do sul,14,41746
+SP,iguape,14,41746
+SP,guariba,14,41746
+SP,miguelopolis,14,41746
+SP,mirandopolis,13,41746
+SP,ibate,13,41746
+SP,engenheiro coelho,13,41746
+SP,jardinopolis,13,41746
+SP,descalvado,13,41746
+SP,cesario lange,13,41746
+SP,casa branca,13,41746
+SP,aluminio,13,41746
+SP,serrana,13,41746
+SP,sao miguel arcanjo,13,41746
+SP,pontal,13,41746
+SP,quata,13,41746
+SP,salto de pirapora,13,41746
+SP,sao pedro,12,41746
+SP,sao lourenco da serra,12,41746
+SP,tabapua,12,41746
+SP,santa gertrudes,12,41746
+SP,tapiratiba,12,41746
+SP,teodoro sampaio,12,41746
+SP,brotas,12,41746
+SP,chavantes,12,41746
+SP,jose bonifacio,12,41746
+SP,itaporanga,12,41746
+SP,lucelia,12,41746
+SP,macatuba,12,41746
+SP,pilar do sul,12,41746
+SP,pirajui,12,41746
+SP,pinhalzinho,12,41746
+SP,ouroeste,11,41746
+SP,paranapanema,11,41746
+SP,embu,11,41746
+SP,guararema,11,41746
+SP,dois corregos,11,41746
+SP,castilho,11,41746
+SP,boa esperanca do sul,11,41746
+SP,aracoiaba da serra,11,41746
+SP,tanabi,11,41746
+SP,rio das pedras,11,41746
+SP,regente feijo,10,41746
+SP,salesopolis,10,41746
+SP,pradopolis,10,41746
+SP,sao simao,10,41746
+SP,taguai,10,41746
+SP,urupes,10,41746
+SP,vera cruz,10,41746
+SP,aracariguama,10,41746
+SP,auriflama,10,41746
+SP,biritiba-mirim,10,41746
+SP,buri,10,41746
+SP,caconde,10,41746
+SP,brodowski,10,41746
+SP,duartina,10,41746
+SP,charqueada,10,41746
+SP,conchas,10,41746
+SP,aguai,10,41746
+SP,aguas da prata,10,41746
+SP,fartura,10,41746
+SP,itai,10,41746
+SP,itajobi,10,41746
+SP,juquia,10,41746
+SP,paraibuna,10,41746
+SP,palestina,10,41746
+SP,monte aprazivel,10,41746
+SP,morro agudo,10,41746
+SP,lindoia,9,41746
+SP,piquete,9,41746
+SP,pedro de toledo,9,41746
+SP,icem,9,41746
+SP,colina,9,41746
+SP,cajuru,9,41746
+SP,buritama,9,41746
+SP,bilac,9,41746
+SP,borborema,9,41746
+SP,taruma,9,41746
+SP,santa cruz das palmeiras,9,41746
+SP,potirendaba,9,41746
+SP,primavera,9,41746
+SP,piratininga,9,41746
+SP,santa branca,9,41746
+SP,valparaiso,8,41746
+SP,alvares machado,8,41746
+SP,angatuba,8,41746
+SP,cafelandia,8,41746
+SP,cajobi,8,41746
+SP,cananeia,8,41746
+SP,dourado,8,41746
+SP,guaicara,8,41746
+SP,guara,8,41746
+SP,jacare,8,41746
+SP,parapua,8,41746
+SP,pirangi,8,41746
+SP,nova europa,8,41746
+SP,maracai,8,41746
+SP,martinopolis,8,41746
+SP,nhandeara,8,41746
+SP,nazare paulista,7,41746
+SP,morungaba,7,41746
+SP,luis antonio,7,41746
+SP,itobi,7,41746
+SP,itabera,7,41746
+SP,itapui,7,41746
+SP,igarapava,7,41746
+SP,ipaussu,7,41746
+SP,general salgado,7,41746
+SP,ibira,7,41746
+SP,estiva gerbi,7,41746
+SP,divinolandia,7,41746
+SP,avanhandava,7,41746
+SP,bady bassitt,7,41746
+SP,santa albertina,7,41746
+SP,ribeirao bonito,7,41746
+SP,sao bento do sapucai,7,41746
+SP,sales oliveira,6,41746
+SP,presidente bernardes,6,41746
+SP,tupi paulista,6,41746
+SP,torrinha,6,41746
+SP,balsamo,6,41746
+SP,bananal,6,41746
+SP,bocaina,6,41746
+SP,bofete,6,41746
+SP,apiai,6,41746
+SP,cosmorama,6,41746
+SP,catigua,6,41746
+SP,cedral,6,41746
+SP,cabreuva,6,41746
+SP,cardoso,6,41746
+SP,eldorado,6,41746
+SP,fernando prestes,6,41746
+SP,iacanga,6,41746
+SP,guapiacu,6,41746
+SP,itapura,6,41746
+SP,irapuru,6,41746
+SP,itariri,6,41746
+SP,joanopolis,6,41746
+SP,monte alegre do sul,6,41746
+SP,pacaembu,6,41746
+SP,panorama,5,41746
+SP,paraiso,5,41746
+SP,ocaucu,5,41746
+SP,orindiuva,5,41746
+SP,palmeira d'oeste,5,41746
+SP,paulo de faria,5,41746
+SP,miracatu,5,41746
+SP,jacupiranga,5,41746
+SP,igarata,5,41746
+SP,guaracai,5,41746
+SP,guaranta,5,41746
+SP,guarei,5,41746
+SP,ibirarema,5,41746
+SP,holambra ii,5,41746
+SP,iepe,5,41746
+SP,elias fausto,5,41746
+SP,colombia,5,41746
+SP,ariranha,5,41746
+SP,brauna,5,41746
+SP,adolfo,5,41746
+SP,tres fronteiras,5,41746
+SP,timburi,5,41746
+SP,tarabai,5,41746
+SP,taiuva,5,41746
+SP,sales,5,41746
+SP,roseira,5,41746
+SP,santa barbara d oeste,5,41746
+SP,rafard,5,41746
+SP,santo antonio do jardim,5,41746
+SP,saltinho,5,41746
+SP,sete barras,5,41746
+SP,severinia,5,41746
+SP,tabatinga,5,41746
+SP,sud mennucci,5,41746
+SP,sao sebastiao da grama,4,41746
+SP,santa cruz da conceicao,4,41746
+SP,rosana,4,41746
+SP,quintana,4,41746
+SP,pongai,4,41746
+SP,urania,4,41746
+SP,bernardino de campos,4,41746
+SP,arandu,4,41746
+SP,arealva,4,41746
+SP,altinopolis,4,41746
+SP,analandia,4,41746
+SP,clementina,4,41746
+SP,cristais paulista,4,41746
+SP,dumont,4,41746
+SP,candido rodrigues,4,41746
+SP,cabralia paulista,4,41746
+SP,florida paulista,4,41746
+SP,igaracu do tiete,4,41746
+SP,ilha comprida,4,41746
+SP,ipua,4,41746
+SP,irapua,4,41746
+SP,itatinga,4,41746
+SP,jambeiro,4,41746
+SP,lavinia,4,41746
+SP,mendonca,4,41746
+SP,maristela,4,41746
+SP,macedonia,4,41746
+SP,pedrinhas paulista,4,41746
+SP,pauliceia,3,41746
+SP,pedra bela,3,41746
+SP,oriente,3,41746
+SP,nuporanga,3,41746
+SP,ouro verde,3,41746
+SP,oscar bressane,3,41746
+SP,manduri,3,41746
+SP,jumirim,3,41746
+SP,luiziania,3,41746
+SP,lupercio,3,41746
+SP,mirante do paranapanema,3,41746
+SP,mineiros do tiete,3,41746
+SP,mombuca,3,41746
+SP,motuca,3,41746
+SP,neves paulista,3,41746
+SP,joao ramalho,3,41746
+SP,lagoinha,3,41746
+SP,jaborandi,3,41746
+SP,itaju,3,41746
+SP,herculandia,3,41746
+SP,indiana,3,41746
+SP,indiapora,3,41746
+SP,inubia paulista,3,41746
+SP,guapiara,3,41746
+SP,gastao vidigal,3,41746
+SP,estrela do norte,3,41746
+SP,capela do alto,3,41746
+SP,cruzalia,3,41746
+SP,areias,3,41746
+SP,areiopolis,3,41746
+SP,barra do turvo,3,41746
+SP,alambari,3,41746
+SP,aguas de santa barbara,3,41746
+SP,aguas de sao pedro,3,41746
+SP,vista alegre do alto,3,41746
+SP,taquarivai,3,41746
+SP,tejupa,3,41746
+SP,valentim gentil,3,41746
+SP,terra roxa,3,41746
+SP,uchoa,3,41746
+SP,poloni,3,41746
+SP,quadra,3,41746
+SP,sabino,3,41746
+SP,riolandia,3,41746
+SP,ribeirao do sul,3,41746
+SP,rinopolis,3,41746
+SP,ribeira,3,41746
+SP,reginopolis,3,41746
+SP,santa lucia,3,41746
+SP,santa rita d'oeste,3,41746
+SP,santo antonio da alegria,3,41746
+SP,sao jose da bela vista,3,41746
+SP,sao jose do barreiro,3,41746
+SP,sao joao de iracema,3,41746
+SP,sao luis do paraitinga,3,41746
+SP,silveiras,3,41746
+SP,taciba,2,41746
+SP,sao pedro do turvo,2,41746
+SP,sarapui,2,41746
+SP,sao francisco,2,41746
+SP,santo antonio do pinhal,2,41746
+SP,santa maria da serra,2,41746
+SP,santa mercedes,2,41746
+SP,santa ernestina,2,41746
+SP,rechan,2,41746
+SP,ribeirao branco,2,41746
+SP,rifaina,2,41746
+SP,rubiacea,2,41746
+SP,salmourao,2,41746
+SP,queluz,2,41746
+SP,presidente alves,2,41746
+SP,potim,2,41746
+SP,porangaba,2,41746
+SP,pontalinda,2,41746
+SP,tapirai,2,41746
+SP,vargem,2,41746
+SP,zacarias,2,41746
+SP,alvares florence,2,41746
+SP,bento de abreu,2,41746
+SP,arapei,2,41746
+SP,aparecida de sao manuel,2,41746
+SP,alvaro de carvalho,2,41746
+SP,echapora,2,41746
+SP,dobrada,2,41746
+SP,coroados,2,41746
+SP,coronel macedo,2,41746
+SP,corumbatai,2,41746
+SP,canitar,2,41746
+SP,caiua,2,41746
+SP,campina do monte alegre,2,41746
+SP,buritizal,2,41746
+SP,euclides da cunha paulista,2,41746
+SP,floreal,2,41746
+SP,emilianopolis,2,41746
+SP,espirito santo do turvo,2,41746
+SP,espigao,2,41746
+SP,gaviao peixoto,2,41746
+SP,getulina,2,41746
+SP,glicerio,2,41746
+SP,guaraci,2,41746
+SP,guariroba,2,41746
+SP,iacri,2,41746
+SP,ipigua,2,41746
+SP,irape,2,41746
+SP,itapirapua paulista,2,41746
+SP,itirapina,2,41746
+SP,jaci,2,41746
+SP,julio mesquita,2,41746
+SP,narandiba,2,41746
+SP,nipoa,2,41746
+SP,nossa senhora do remedio,2,41746
+SP,nova campina,2,41746
+SP,nova canaa paulista,2,41746
+SP,murutinga do sul,2,41746
+SP,moncoes,2,41746
+SP,mogi-mirim,2,41746
+SP,lucianopolis,2,41746
+SP,lourdes,2,41746
+SP,mariapolis,2,41746
+SP,magda,2,41746
+SP,marinopolis,2,41746
+SP,paranapua,2,41746
+SP,pedregulho,2,41746
+SP,patrocinio paulista,2,41746
+SP,pindorama,2,41746
+SP,pereiras,1,41746
+SP,piacatu,1,41746
+SP,pinheiros,1,41746
+SP,piquerobi,1,41746
+SP,paulistania,1,41746
+SP,pardinho,1,41746
+SP,parisi,1,41746
+SP,pedranopolis,1,41746
+SP,palmares paulista,1,41746
+SP,palmeira d oeste,1,41746
+SP,oleo,1,41746
+SP,onda verde,1,41746
+SP,novais,1,41746
+SP,nova guataporanga,1,41746
+SP,nova independencia,1,41746
+SP,nova luzitania,1,41746
+SP,meridiano,1,41746
+SP,macaubal,1,41746
+SP,lutecia,1,41746
+SP,lavrinhas,1,41746
+SP,mira estrela,1,41746
+SP,nantes,1,41746
+SP,monte castelo,1,41746
+SP,monteiro lobato,1,41746
+SP,natividade da serra,1,41746
+SP,jeriquara,1,41746
+SP,jamaica,1,41746
+SP,itaoca,1,41746
+SP,ibitiuva,1,41746
+SP,iaras,1,41746
+SP,guatapara,1,41746
+SP,guzolandia,1,41746
+SP,guarapua,1,41746
+SP,estrela d oeste,1,41746
+SP,engenheiro balduino,1,41746
+SP,elisiario,1,41746
+SP,embauba,1,41746
+SP,florinia,1,41746
+SP,gabriel monteiro,1,41746
+SP,galia,1,41746
+SP,estrela d'oeste,1,41746
+SP,fernao,1,41746
+SP,flora rica,1,41746
+SP,cassia dos coqueiros,1,41746
+SP,cipo-guacu,1,41746
+SP,americo de campos,1,41746
+SP,anhembi,1,41746
+SP,anhumas,1,41746
+SP,aparecida d'oeste,1,41746
+SP,aparecida de monte alto,1,41746
+SP,aramina,1,41746
+SP,avai,1,41746
+SP,balbinos,1,41746
+SP,bandeirantes d'oeste,1,41746
+SP,barao ataliba nogueira,1,41746
+SP,botelho,1,41746
+SP,bora,1,41746
+SP,boraceia,1,41746
+SP,alfredo marcondes,1,41746
+SP,ajapi,1,41746
+SP,agisse,1,41746
+SP,venda branca,1,41746
+SP,tapinas,1,41746
+SP,taiacu,1,41746
+SP,tecainda,1,41746
+SP,turmalina,1,41746
+SP,ubirajara,1,41746
+SP,termas de ibira,1,41746
+SP,tuiuti,1,41746
+SP,trabiju,1,41746
+SP,pontes gestal,1,41746
+SP,populina,1,41746
+SP,planalto,1,41746
+SP,queiroz,1,41746
+SP,salto grande,1,41746
+SP,santa clara d'oeste,1,41746
+SP,rubineia,1,41746
+SP,riversul,1,41746
+SP,rincao,1,41746
+SP,redencao da serra,1,41746
+SP,santa salete,1,41746
+SP,santo expedito,1,41746
+SP,santo antonio do aracangua,1,41746
+SP,sarutaia,1,41746
+SP,serra azul,1,41746
+SP,sao sebastiao da serra,1,41746
+SP,suzanapolis,1,41746
+RJ,rio de janeiro,6882,12852
+RJ,niteroi,849,12852
+RJ,nova iguacu,442,12852
+RJ,sao goncalo,409,12852
+RJ,duque de caxias,266,12852
+RJ,petropolis,240,12852
+RJ,macae,239,12852
+RJ,campos dos goytacazes,238,12852
+RJ,volta redonda,232,12852
+RJ,nova friburgo,152,12852
+RJ,marica,139,12852
+RJ,rio das ostras,137,12852
+RJ,sao joao de meriti,134,12852
+RJ,barra mansa,123,12852
+RJ,teresopolis,120,12852
+RJ,resende,117,12852
+RJ,cabo frio,117,12852
+RJ,belford roxo,111,12852
+RJ,mage,111,12852
+RJ,nilopolis,107,12852
+RJ,angra dos reis,85,12852
+RJ,araruama,77,12852
+RJ,mesquita,75,12852
+RJ,itaborai,60,12852
+RJ,barra do pirai,54,12852
+RJ,queimados,54,12852
+RJ,itaguai,48,12852
+RJ,itaperuna,47,12852
+RJ,saquarema,47,12852
+RJ,sao pedro da aldeia,46,12852
+RJ,tres rios,40,12852
+RJ,vassouras,37,12852
+RJ,paracambi,35,12852
+RJ,japeri,34,12852
+RJ,seropedica,33,12852
+RJ,santo antonio de padua,32,12852
+RJ,armacao dos buzios,29,12852
+RJ,arraial do cabo,29,12852
+RJ,miguel pereira,28,12852
+RJ,valenca,28,12852
+RJ,rio bonito,28,12852
+RJ,cordeiro,24,12852
+RJ,guapimirim,23,12852
+RJ,sao fidelis,23,12852
+RJ,cachoeiras de macacu,21,12852
+RJ,bom jesus do itabapoana,21,12852
+RJ,casimiro de abreu,20,12852
+RJ,iguaba grande,19,12852
+RJ,miracema,19,12852
+RJ,paraty,19,12852
+RJ,paraiba do sul,18,12852
+RJ,itatiaia,18,12852
+RJ,cantagalo,17,12852
+RJ,itaocara,16,12852
+RJ,pirai,16,12852
+RJ,natividade,15,12852
+RJ,sao francisco de itabapoana,15,12852
+RJ,sao joao da barra,15,12852
+RJ,pinheiral,14,12852
+RJ,italva,14,12852
+RJ,bom jardim,14,12852
+RJ,carmo,13,12852
+RJ,conceicao de macabu,13,12852
+RJ,barra de sao joao,13,12852
+RJ,aperibe,13,12852
+RJ,mangaratiba,13,12852
+RJ,quissama,13,12852
+RJ,parati,13,12852
+RJ,paty do alferes,13,12852
+RJ,mendes,12,12852
+RJ,sao jose do vale do rio preto,12,12852
+RJ,goitacazes,11,12852
+RJ,sumidouro,10,12852
+RJ,papucaia,10,12852
+RJ,porciuncula,8,12852
+RJ,trajano de moraes,8,12852
+RJ,cambuci,8,12852
+RJ,comendador levy gasparian,7,12852
+RJ,areal,7,12852
+RJ,santa maria madalena,7,12852
+RJ,porto real,7,12852
+RJ,vila muriqui,7,12852
+RJ,rio das flores,6,12852
+RJ,santo amaro de campos,6,12852
+RJ,tangua,6,12852
+RJ,cardoso moreira,6,12852
+RJ,california da barra,6,12852
+RJ,engenheiro paulo de frontin,6,12852
+RJ,japuiba,5,12852
+RJ,carapebus,5,12852
+RJ,quatis,5,12852
+RJ,sapucaia,5,12852
+RJ,varre-sai,4,12852
+RJ,silva jardim,4,12852
+RJ,sao sebastiao do alto,4,12852
+RJ,travessao,4,12852
+RJ,santanesia,4,12852
+RJ,avelar,4,12852
+RJ,governador portela,4,12852
+RJ,conservatoria,4,12852
+RJ,ipiabas,4,12852
+RJ,anta,4,12852
+RJ,arrozal,3,12852
+RJ,sao jose do turvo,3,12852
+RJ,sao jose de uba,3,12852
+RJ,raposo,3,12852
+RJ,rio claro,3,12852
+RJ,visconde de maua,3,12852
+RJ,werneck,2,12852
+RJ,passa tres,2,12852
+RJ,santo eduardo,2,12852
+RJ,tocos,2,12852
+RJ,glicerio,2,12852
+RJ,engenheiro passos,2,12852
+RJ,monnerat,2,12852
+RJ,mussurepe,1,12852
+RJ,macuco,1,12852
+RJ,laje do muriae,1,12852
+RJ,lidice,1,12852
+RJ,jaguarembe,1,12852
+RJ,jamapara,1,12852
+RJ,ibitioca,1,12852
+RJ,itacurussa,1,12852
+RJ,bacaxa,1,12852
+RJ,barao de juparana,1,12852
+RJ,bom jesus do querendo,1,12852
+RJ,bemposta,1,12852
+RJ,boa esperanca,1,12852
+RJ,boa ventura,1,12852
+RJ,cambiasca,1,12852
+RJ,conrado,1,12852
+RJ,corrego do ouro,1,12852
+RJ,duas barras,1,12852
+RJ,tres irmaos,1,12852
+RJ,vargem alegre,1,12852
+RJ,valao do barro,1,12852
+RJ,sao sebastiao do paraiba,1,12852
+RJ,sao sebastiao de campos,1,12852
+RJ,santa rita da floresta,1,12852
+RJ,sao jose do ribeirao,1,12852
+RJ,sao joao do paraiso,1,12852
+RJ,penedo,1,12852
+RJ,piao,1,12852
+RJ,sacra familia do tingua,1,12852
+RJ,santa isabel do rio preto,1,12852
+RJ,santa maria,1,12852
+RJ,pureza,1,12852
+RJ,purilandia,1,12852
+RJ,portela,1,12852
+MG,belo horizonte,2773,11635
+MG,juiz de fora,427,11635
+MG,contagem,426,11635
+MG,uberlandia,374,11635
+MG,montes claros,211,11635
+MG,betim,203,11635
+MG,uberaba,191,11635
+MG,ipatinga,171,11635
+MG,governador valadares,141,11635
+MG,divinopolis,137,11635
+MG,pouso alegre,131,11635
+MG,sete lagoas,128,11635
+MG,pocos de caldas,122,11635
+MG,ribeirao das neves,101,11635
+MG,patos de minas,100,11635
+MG,nova lima,98,11635
+MG,itajuba,94,11635
+MG,santa luzia,93,11635
+MG,varginha,89,11635
+MG,vicosa,89,11635
+MG,conselheiro lafaiete,84,11635
+MG,lavras,83,11635
+MG,barbacena,80,11635
+MG,itabira,79,11635
+MG,araxa,78,11635
+MG,teofilo otoni,75,11635
+MG,sao joao del rei,67,11635
+MG,manhuacu,65,11635
+MG,muriae,64,11635
+MG,paracatu,63,11635
+MG,caratinga,62,11635
+MG,lagoa santa,59,11635
+MG,itauna,57,11635
+MG,ouro preto,57,11635
+MG,ituiutaba,56,11635
+MG,timoteo,54,11635
+MG,unai,54,11635
+MG,araguari,54,11635
+MG,uba,53,11635
+MG,joao monlevade,51,11635
+MG,nova serrana,51,11635
+MG,ibirite,50,11635
+MG,patrocinio,47,11635
+MG,vespasiano,45,11635
+MG,curvelo,44,11635
+MG,passos,43,11635
+MG,tres coracoes,43,11635
+MG,alfenas,43,11635
+MG,pirapora,42,11635
+MG,sabara,42,11635
+MG,ponte nova,41,11635
+MG,coronel fabriciano,41,11635
+MG,ouro branco,41,11635
+MG,extrema,40,11635
+MG,pedro leopoldo,40,11635
+MG,bom despacho,39,11635
+MG,para de minas,37,11635
+MG,guaxupe,37,11635
+MG,sao sebastiao do paraiso,36,11635
+MG,santa rita do sapucai,35,11635
+MG,sao lourenco,34,11635
+MG,mariana,33,11635
+MG,cataguases,33,11635
+MG,formiga,32,11635
+MG,itabirito,32,11635
+MG,congonhas,30,11635
+MG,alem paraiba,29,11635
+MG,piumhii,28,11635
+MG,diamantina,27,11635
+MG,carangola,27,11635
+MG,caete,27,11635
+MG,brumadinho,26,11635
+MG,frutal,26,11635
+MG,santa barbara,26,11635
+MG,coromandel,25,11635
+MG,nanuque,25,11635
+MG,arcos,25,11635
+MG,monte carmelo,24,11635
+MG,oliveira,22,11635
+MG,januaria,22,11635
+MG,salinas,22,11635
+MG,pitangui,22,11635
+MG,santos dumont,22,11635
+MG,cambui,22,11635
+MG,claudio,22,11635
+MG,campo belo,21,11635
+MG,machado,21,11635
+MG,monte siao,20,11635
+MG,sao gotardo,20,11635
+MG,tres pontas,20,11635
+MG,capelinha,20,11635
+MG,visconde do rio branco,19,11635
+MG,espera feliz,19,11635
+MG,guanhaes,18,11635
+MG,jacutinga,18,11635
+MG,sarzedo,18,11635
+MG,bambui,18,11635
+MG,barao de cocais,18,11635
+MG,caxambu,17,11635
+MG,santa vitoria,17,11635
+MG,janauba,17,11635
+MG,leopoldina,17,11635
+MG,manhumirim,16,11635
+MG,joao pinheiro,16,11635
+MG,ouro fino,16,11635
+MG,santana do paraiso,16,11635
+MG,carmo do paranaiba,16,11635
+MG,santo antonio do monte,15,11635
+MG,nova era,15,11635
+MG,paraisopolis,15,11635
+MG,sao joao nepomuceno,15,11635
+MG,iturama,15,11635
+MG,conselheiro pena,15,11635
+MG,esmeraldas,14,11635
+MG,divino,14,11635
+MG,itanhandu,14,11635
+MG,buritis,14,11635
+MG,almenara,14,11635
+MG,bocaiuva,13,11635
+MG,itapecerica,13,11635
+MG,matias barbosa,13,11635
+MG,tupaciguara,13,11635
+MG,tres marias,13,11635
+MG,taiobeiras,13,11635
+MG,paraguacu,13,11635
+MG,sacramento,13,11635
+MG,raul soares,12,11635
+MG,sao francisco,12,11635
+MG,matozinhos,12,11635
+MG,conceicao do mato dentro,12,11635
+MG,andradas,12,11635
+MG,abaete,12,11635
+MG,alvinopolis,11,11635
+MG,capinopolis,11,11635
+MG,carandai,11,11635
+MG,barroso,11,11635
+MG,boa esperanca,11,11635
+MG,astolfo dutra,11,11635
+MG,mantena,11,11635
+MG,jequitinhonha,11,11635
+MG,lagoa da prata,11,11635
+MG,igarape,11,11635
+MG,corinto,11,11635
+MG,varzea da palma,11,11635
+MG,raposos,11,11635
+MG,pompeu,11,11635
+MG,passa quatro,10,11635
+MG,prata,10,11635
+MG,resplendor,10,11635
+MG,sao goncalo do sapucai,10,11635
+MG,eloi mendes,10,11635
+MG,itamonte,10,11635
+MG,candeias,10,11635
+MG,campina verde,10,11635
+MG,carmo do cajuru,10,11635
+MG,aimores,10,11635
+MG,carmo do rio claro,9,11635
+MG,camanducaia,9,11635
+MG,aracuai,9,11635
+MG,brasilia de minas,9,11635
+MG,buritizeiro,9,11635
+MG,ibia,9,11635
+MG,guaranesia,9,11635
+MG,mar de espanha,9,11635
+MG,mateus leme,9,11635
+MG,mirai,9,11635
+MG,novo cruzeiro,9,11635
+MG,muzambinho,9,11635
+MG,nova ponte,9,11635
+MG,nepomuceno,9,11635
+MG,monte santo de minas,9,11635
+MG,simonesia,9,11635
+MG,turmalina,9,11635
+MG,rio paranaiba,9,11635
+MG,santa juliana,9,11635
+MG,paraopeba,9,11635
+MG,perdoes,9,11635
+MG,piranguinho,9,11635
+MG,pirapetinga,8,11635
+MG,perdizes,8,11635
+MG,poco fundo,8,11635
+MG,santo antonio do jacinto,8,11635
+MG,rio acima,8,11635
+MG,virginopolis,8,11635
+MG,sao joaquim de bicas,8,11635
+MG,sao jose da lapa,8,11635
+MG,mutum,8,11635
+MG,lambari,8,11635
+MG,fervedouro,8,11635
+MG,itamarandiba,8,11635
+MG,ipaba,8,11635
+MG,dores de campos,8,11635
+MG,cristina,8,11635
+MG,botelhos,8,11635
+MG,bom jardim de minas,8,11635
+MG,baependi,8,11635
+MG,arinos,8,11635
+MG,caetanopolis,8,11635
+MG,campanha,7,11635
+MG,areado,7,11635
+MG,arceburgo,7,11635
+MG,bicas,7,11635
+MG,cachoeira de minas,7,11635
+MG,alpinopolis,7,11635
+MG,dores do indaia,7,11635
+MG,entre rios de minas,7,11635
+MG,ervalia,7,11635
+MG,ipanema,7,11635
+MG,inhapim,7,11635
+MG,guarani,7,11635
+MG,lagoa formosa,7,11635
+MG,malacacheta,7,11635
+MG,sao joao evangelista,7,11635
+MG,teixeiras,7,11635
+MG,perdigao,7,11635
+MG,piedade de caratinga,7,11635
+MG,presidente olegario,6,11635
+MG,sabinopolis,6,11635
+MG,rio pomba,6,11635
+MG,santa rita de caldas,6,11635
+MG,tocantins,6,11635
+MG,soledade de minas,6,11635
+MG,vazante,6,11635
+MG,sao jose da barra,6,11635
+MG,sao goncalo do rio abaixo,6,11635
+MG,lima duarte,6,11635
+MG,itaobim,6,11635
+MG,jaiba,6,11635
+MG,juruaia,6,11635
+MG,jeceaba,6,11635
+MG,martins soares,6,11635
+MG,mata verde,6,11635
+MG,medina,6,11635
+MG,fronteira,6,11635
+MG,itambacuri,6,11635
+MG,espinosa,6,11635
+MG,conquista,6,11635
+MG,abre campo,6,11635
+MG,borda da mata,6,11635
+MG,brazopolis,6,11635
+MG,araujos,6,11635
+MG,carmo da mata,6,11635
+MG,carai,6,11635
+MG,cassia,6,11635
+MG,conceicao da aparecida,6,11635
+MG,conceicao do rio verde,5,11635
+MG,carmopolis de minas,5,11635
+MG,catas altas,5,11635
+MG,canapolis,5,11635
+MG,capitolio,5,11635
+MG,cambuquira,5,11635
+MG,campos altos,5,11635
+MG,campos gerais,5,11635
+MG,arapora,5,11635
+MG,belo oriente,5,11635
+MG,caldas,5,11635
+MG,buenopolis,5,11635
+MG,aguas formosas,5,11635
+MG,eugenopolis,5,11635
+MG,divinolandia de minas,5,11635
+MG,frei inocencio,5,11635
+MG,mendes pimentel,5,11635
+MG,monte azul,5,11635
+MG,monte belo,5,11635
+MG,jordania,5,11635
+MG,itau de minas,5,11635
+MG,itapagipe,5,11635
+MG,itapeva,5,11635
+MG,jesuania,5,11635
+MG,lagoa dourada,5,11635
+MG,sao romao,5,11635
+MG,sao tiago,5,11635
+MG,serra dos aimores,5,11635
+MG,tombos,5,11635
+MG,santa cruz de minas,5,11635
+MG,rio manso,5,11635
+MG,rio pardo de minas,5,11635
+MG,rio casca,5,11635
+MG,porteirinha,5,11635
+MG,pecanha,5,11635
+MG,pedra azul,5,11635
+MG,papagaios,4,11635
+MG,piranga,4,11635
+MG,prudente de morais,4,11635
+MG,rio piracicaba,4,11635
+MG,rio novo,4,11635
+MG,rio preto,4,11635
+MG,santa maria de itabira,4,11635
+MG,santana da vargem,4,11635
+MG,santo antonio do amparo,4,11635
+MG,santana do jacare,4,11635
+MG,tarumirim,4,11635
+MG,tiradentes,4,11635
+MG,volta grande,4,11635
+MG,sapucai-mirim,4,11635
+MG,sao tomas de aquino,4,11635
+MG,sao pedro dos ferros,4,11635
+MG,sao domingos do prata,4,11635
+MG,sao geraldo,4,11635
+MG,sao joao do paraiso,4,11635
+MG,maravilhas,4,11635
+MG,lagoa grande,4,11635
+MG,juatuba,4,11635
+MG,jacui,4,11635
+MG,minas novas,4,11635
+MG,monte alegre de minas,4,11635
+MG,merces,4,11635
+MG,matipo,4,11635
+MG,mario campos,4,11635
+MG,munhoz,4,11635
+MG,palma,4,11635
+MG,goiana,4,11635
+MG,gouveia,4,11635
+MG,guimarania,4,11635
+MG,iapu,4,11635
+MG,itanhomi,4,11635
+MG,iguatama,4,11635
+MG,ibiraci,4,11635
+MG,dom silverio,4,11635
+MG,congonhal,4,11635
+MG,cruzilia,4,11635
+MG,aiuruoca,4,11635
+MG,alto jequitiba,4,11635
+MG,alto rio doce,4,11635
+MG,bueno brandao,4,11635
+MG,bom jesus do galho,4,11635
+MG,bom repouso,4,11635
+MG,bom sucesso,4,11635
+MG,bonfim,4,11635
+MG,campo do meio,4,11635
+MG,carbonita,4,11635
+MG,carmo da cachoeira,4,11635
+MG,chapada gaucha,4,11635
+MG,conceicao dos ouros,4,11635
+MG,conceicao das pedras,4,11635
+MG,conceicao das alagoas,3,11635
+MG,conceicao do para,3,11635
+MG,coluna,3,11635
+MG,carneirinho,3,11635
+MG,carrancas,3,11635
+MG,carvalhopolis,3,11635
+MG,carmo de minas,3,11635
+MG,carlos chagas,3,11635
+MG,campestre,3,11635
+MG,cabeceira grande,3,11635
+MG,cabo verde,3,11635
+MG,caiana,3,11635
+MG,cachoeira de pajeu,3,11635
+MG,belo vale,3,11635
+MG,bandeira,3,11635
+MG,ataleia,3,11635
+MG,azurita,3,11635
+MG,alterosa,3,11635
+MG,andrelandia,3,11635
+MG,antonio prado de minas,3,11635
+MG,aguas vermelhas,3,11635
+MG,alfredo vasconcelos,3,11635
+MG,abadia dos dourados,3,11635
+MG,delfinopolis,3,11635
+MG,descoberto,3,11635
+MG,cristais,3,11635
+MG,cristalia,3,11635
+MG,coracao de jesus,3,11635
+MG,ibiai,3,11635
+MG,ipiacu,3,11635
+MG,itacarambi,3,11635
+MG,grao mogol,3,11635
+MG,goncalves,3,11635
+MG,gameleiras,3,11635
+MG,florestal,3,11635
+MG,francisco badaro,3,11635
+MG,francisco sa,3,11635
+MG,pains,3,11635
+MG,morada nova de minas,3,11635
+MG,mato verde,3,11635
+MG,montalvania,3,11635
+MG,monte verde,3,11635
+MG,itinga,3,11635
+MG,lajinha,3,11635
+MG,maria da fe,3,11635
+MG,manga,3,11635
+MG,liberdade,3,11635
+MG,luminarias,3,11635
+MG,madre de deus de minas,3,11635
+MG,sao joao do manteninha,3,11635
+MG,sao goncalo do para,3,11635
+MG,sao goncalo do rio preto,3,11635
+MG,sao joao batista do gloria,3,11635
+MG,sao sebastiao do maranhao,3,11635
+MG,sao pedro da uniao,3,11635
+MG,virgem da lapa,3,11635
+MG,varzelandia,3,11635
+MG,verissimo,3,11635
+MG,uniao de minas,3,11635
+MG,ubaporanga,3,11635
+MG,tiros,3,11635
+MG,silvianopolis,3,11635
+MG,setubinha,3,11635
+MG,santana do manhuacu,3,11635
+MG,santa rita de minas,3,11635
+MG,santo antonio do itambe,3,11635
+MG,ritapolis,3,11635
+MG,rodeiro,3,11635
+MG,rubim,3,11635
+MG,riacho dos machados,3,11635
+MG,recreio,3,11635
+MG,resende costa,3,11635
+MG,pouso alto,3,11635
+MG,prados,3,11635
+MG,pote,3,11635
+MG,pocrane,3,11635
+MG,piumhi,3,11635
+MG,pirauba,3,11635
+MG,piedade do rio grande,3,11635
+MG,piedade dos gerais,3,11635
+MG,pedralva,3,11635
+MG,pedrinopolis,3,11635
+MG,pimenta,2,11635
+MG,patrocinio do muriae,2,11635
+MG,planura,2,11635
+MG,piau,2,11635
+MG,periquito,2,11635
+MG,perpetuo socorro,2,11635
+MG,porto firme,2,11635
+MG,ponto dos volantes,2,11635
+MG,presidente kubitschek,2,11635
+MG,riachinho,2,11635
+MG,salto da divisa,2,11635
+MG,romaria,2,11635
+MG,ribeirao vermelho,2,11635
+MG,santa maria do suacui,2,11635
+MG,santo antonio do grama,2,11635
+MG,santa rita do ibitipoca,2,11635
+MG,santana dos montes,2,11635
+MG,santa cruz de salinas,2,11635
+MG,santa cruz do prata,2,11635
+MG,santa helena de minas,2,11635
+MG,santa margarida,2,11635
+MG,tabuleiro,2,11635
+MG,taquaracu de minas,2,11635
+MG,turvolandia,2,11635
+MG,varjao de minas,2,11635
+MG,vargem alegre,2,11635
+MG,virgolandia,2,11635
+MG,sao jose do goiabal,2,11635
+MG,sao roque de minas,2,11635
+MG,senador amaral,2,11635
+MG,senador firmino,2,11635
+MG,senador modestino goncalves,2,11635
+MG,senhora de oliveira,2,11635
+MG,serrania,2,11635
+MG,sao thome das letras,2,11635
+MG,serro,2,11635
+MG,sericita,2,11635
+MG,serra azul de minas,2,11635
+MG,sao joao da mata,2,11635
+MG,sao joao das missoes,2,11635
+MG,sao joao do oriente,2,11635
+MG,sao joao do manhuacu,2,11635
+MG,sao domingos das dores,2,11635
+MG,sao goncalo do abaete,2,11635
+MG,sao francisco de paula,2,11635
+MG,sao bras do suacui,2,11635
+MG,luz,2,11635
+MG,machacalis,2,11635
+MG,limeira do oeste,2,11635
+MG,luisburgo,2,11635
+MG,luizlandia do oeste,2,11635
+MG,leandro ferreira,2,11635
+MG,itueta,2,11635
+MG,jacinto,2,11635
+MG,itatiaiucu,2,11635
+MG,jequitai,2,11635
+MG,jequitiba,2,11635
+MG,juvenilia,2,11635
+MG,ladainha,2,11635
+MG,montezuma,2,11635
+MG,monte formoso,2,11635
+MG,matutina,2,11635
+MG,medeiros,2,11635
+MG,materlandia,2,11635
+MG,martinho campos,2,11635
+MG,nazareno,2,11635
+MG,paiva,2,11635
+MG,ouro verde de minas,2,11635
+MG,francisco dumont,2,11635
+MG,formoso,2,11635
+MG,fruta de leite,2,11635
+MG,goiabeira,2,11635
+MG,guarara,2,11635
+MG,guarda-mor,2,11635
+MG,guidoval,2,11635
+MG,itaguara,2,11635
+MG,irai de minas,2,11635
+MG,itamogi,2,11635
+MG,guaraciaba,2,11635
+MG,icarai de minas,2,11635
+MG,inhauma,2,11635
+MG,inimutaba,2,11635
+MG,imbe de minas,2,11635
+MG,inconfidentes,2,11635
+MG,indianopolis,2,11635
+MG,coroaci,2,11635
+MG,cristiano otoni,2,11635
+MG,diogo de vasconcelos,2,11635
+MG,dionisio,2,11635
+MG,crisolita,2,11635
+MG,cruzeiro da fortaleza,2,11635
+MG,dom vicoso,2,11635
+MG,dona euzebia,2,11635
+MG,durande,2,11635
+MG,dom joaquim,2,11635
+MG,divisa alegre,2,11635
+MG,ferros,2,11635
+MG,estrela do indaia,2,11635
+MG,agua comprida,2,11635
+MG,acaiaca,2,11635
+MG,antonio pereira,2,11635
+MG,aracitaba,2,11635
+MG,alto caparao,2,11635
+MG,alpercata,2,11635
+MG,alvarenga,2,11635
+MG,araponga,2,11635
+MG,bandeira do sul,2,11635
+MG,baldim,2,11635
+MG,bias fortes,2,11635
+MG,cachoeira do campo,2,11635
+MG,cachoeira da prata,2,11635
+MG,bonfinopolis de minas,2,11635
+MG,bom jesus da penha,2,11635
+MG,bras pires,2,11635
+MG,brasilandia de minas,2,11635
+MG,campanario,2,11635
+MG,cantagalo,2,11635
+MG,careacu,2,11635
+MG,caputira,2,11635
+MG,capetinga,2,11635
+MG,capim branco,2,11635
+MG,chaveslandia,2,11635
+MG,chacara,2,11635
+MG,chale,2,11635
+MG,chapada do norte,2,11635
+MG,cocais,1,11635
+MG,coimbra,1,11635
+MG,comercinho,1,11635
+MG,conceicao da ibitipoca,1,11635
+MG,confins,1,11635
+MG,conceicao do formoso,1,11635
+MG,claraval,1,11635
+MG,claro dos pocoes,1,11635
+MG,cedro do abaete,1,11635
+MG,central de santa helena,1,11635
+MG,centralina,1,11635
+MG,cascalho rico,1,11635
+MG,capitao andrade,1,11635
+MG,capitao eneas,1,11635
+MG,carmesia,1,11635
+MG,caparao,1,11635
+MG,capela nova,1,11635
+MG,campo florido,1,11635
+MG,canaa,1,11635
+MG,campo alegre de minas,1,11635
+MG,campo azul,1,11635
+MG,brejo bonito,1,11635
+MG,brasopolis,1,11635
+MG,braunas,1,11635
+MG,bom jesus do amparo,1,11635
+MG,bonito de minas,1,11635
+MG,bugre,1,11635
+MG,cachoeira dourada,1,11635
+MG,cachoeira do brumado,1,11635
+MG,cajuri,1,11635
+MG,camacho,1,11635
+MG,berilo,1,11635
+MG,berizal,1,11635
+MG,bertopolis,1,11635
+MG,bela vista de minas,1,11635
+MG,barra longa,1,11635
+MG,arantina,1,11635
+MG,arapua,1,11635
+MG,baguari,1,11635
+MG,amparo da serra,1,11635
+MG,antunes,1,11635
+MG,andrequice,1,11635
+MG,angustura,1,11635
+MG,antonio carlos,1,11635
+MG,acucena,1,11635
+MG,alexandrita,1,11635
+MG,alagoa,1,11635
+MG,estrela do sul,1,11635
+MG,estevao de araujo,1,11635
+MG,estiva,1,11635
+MG,ewbank da camara,1,11635
+MG,felicio dos santos,1,11635
+MG,felisburgo,1,11635
+MG,felixlandia,1,11635
+MG,divisa nova,1,11635
+MG,dom cavati,1,11635
+MG,divino das laranjeiras,1,11635
+MG,engenheiro navarro,1,11635
+MG,entre folhas,1,11635
+MG,dores de guanhaes,1,11635
+MG,crucilandia,1,11635
+MG,cuite velho,1,11635
+MG,datas,1,11635
+MG,delfim moreira,1,11635
+MG,divinesia,1,11635
+MG,desembargador otoni,1,11635
+MG,desterro de entre rios,1,11635
+MG,desterro do melo,1,11635
+MG,coronel murta,1,11635
+MG,coronel pacheco,1,11635
+MG,corrego danta,1,11635
+MG,corrego fundo,1,11635
+MG,ingai,1,11635
+MG,ilicinea,1,11635
+MG,igaratinga,1,11635
+MG,ibiracatu,1,11635
+MG,itabirinha,1,11635
+MG,ipuiuna,1,11635
+MG,guape,1,11635
+MG,ibertioga,1,11635
+MG,guinda,1,11635
+MG,guiricema,1,11635
+MG,grupiara,1,11635
+MG,frei lagonegro,1,11635
+MG,glaura,1,11635
+MG,fonseca,1,11635
+MG,frei gaspar,1,11635
+MG,padre carvalho,1,11635
+MG,padre paraiso,1,11635
+MG,paineiras,1,11635
+MG,palmital de minas,1,11635
+MG,palmopolis,1,11635
+MG,novo oriente de minas,1,11635
+MG,olaria,1,11635
+MG,olhos d'agua,1,11635
+MG,orizania,1,11635
+MG,nova resende,1,11635
+MG,nacip raydan,1,11635
+MG,natercia,1,11635
+MG,morro da garca,1,11635
+MG,morro do ferro,1,11635
+MG,morro do pilar,1,11635
+MG,morro vermelho,1,11635
+MG,martinesia,1,11635
+MG,marilac,1,11635
+MG,mesquita,1,11635
+MG,mendonca,1,11635
+MG,minduri,1,11635
+MG,miradouro,1,11635
+MG,miravania,1,11635
+MG,moeda,1,11635
+MG,moema,1,11635
+MG,monsenhor paulo,1,11635
+MG,jenipapo de minas,1,11635
+MG,jequeri,1,11635
+MG,japaraiba,1,11635
+MG,itutinga,1,11635
+MG,jaboticatubas,1,11635
+MG,jampruca,1,11635
+MG,jaguaracu,1,11635
+MG,lamim,1,11635
+MG,laranjal,1,11635
+MG,joaima,1,11635
+MG,lagoa dos patos,1,11635
+MG,major porto,1,11635
+MG,macuco de minas,1,11635
+MG,mamonas,1,11635
+MG,sao domingos,1,11635
+MG,sao benedito,1,11635
+MG,sao bento abade,1,11635
+MG,sao francisco do gloria,1,11635
+MG,sao francisco do humaita,1,11635
+MG,sao goncalo do rio das pedras,1,11635
+MG,sao geraldo da piedade,1,11635
+MG,sao geraldo do baguari,1,11635
+MG,sao felix de minas,1,11635
+MG,sao joao da ponte,1,11635
+MG,serra bonita,1,11635
+MG,serra do salitre,1,11635
+MG,serranopolis de minas,1,11635
+MG,senhora dos remedios,1,11635
+MG,senador cortes,1,11635
+MG,sardoa,1,11635
+MG,sao jose do divino,1,11635
+MG,sao mateus de minas,1,11635
+MG,sao miguel do anta,1,11635
+MG,sao sebastiao do rio verde,1,11635
+MG,sao vitor,1,11635
+MG,sapucaia,1,11635
+MG,virginia,1,11635
+MG,vieiras,1,11635
+MG,vila pereira,1,11635
+MG,vitorinos,1,11635
+MG,vargem grande do rio pardo,1,11635
+MG,vermelho,1,11635
+MG,vermelho novo,1,11635
+MG,umburatiba,1,11635
+MG,uruana de minas,1,11635
+MG,urucania,1,11635
+MG,urucuia,1,11635
+MG,ubai,1,11635
+MG,tuparece,1,11635
+MG,tumiritinga,1,11635
+MG,tocos do moji,1,11635
+MG,taparuba,1,11635
+MG,silvano,1,11635
+MG,silveira carvalho,1,11635
+MG,simao pereira,1,11635
+MG,sobralia,1,11635
+MG,santa fe de minas,1,11635
+MG,santana de pirapama,1,11635
+MG,santana do capivari,1,11635
+MG,santana do deserto,1,11635
+MG,santa maria do salto,1,11635
+MG,santa rita de jacutinga,1,11635
+MG,santo antonio do aventureiro,1,11635
+MG,santa rita do itueto,1,11635
+MG,santo antonio do rio abaixo,1,11635
+MG,santo antonio dos campos,1,11635
+MG,santo hipolito,1,11635
+MG,ribeiro junqueira,1,11635
+MG,rubelita,1,11635
+MG,ressaquinha,1,11635
+MG,rio doce,1,11635
+MG,rio espera,1,11635
+MG,pratapolis,1,11635
+MG,ravena,1,11635
+MG,quatituba,1,11635
+MG,queixada,1,11635
+MG,ponto do marambaia,1,11635
+MG,pescador,1,11635
+MG,pocoes de paineiras,1,11635
+MG,paula candido,1,11635
+MG,pavao,1,11635
+MG,pedra do indaia,1,11635
+MG,pedra menina,1,11635
+MG,passa tempo,1,11635
+MG,pingo-d'agua,1,11635
+MG,pinhotiba,1,11635
+MG,piracema,1,11635
+MG,pirajuba,1,11635
+MG,patis,1,11635
+MG,pequi,1,11635
+RS,porto alegre,1379,5466
+RS,caxias do sul,224,5466
+RS,canoas,210,5466
+RS,santa maria,194,5466
+RS,pelotas,186,5466
+RS,rio grande,125,5466
+RS,novo hamburgo,123,5466
+RS,passo fundo,113,5466
+RS,gravatai,112,5466
+RS,sao leopoldo,105,5466
+RS,viamao,73,5466
+RS,cachoeirinha,72,5466
+RS,bage,65,5466
+RS,santa cruz do sul,62,5466
+RS,erechim,58,5466
+RS,bento goncalves,56,5466
+RS,ijui,52,5466
+RS,lajeado,50,5466
+RS,alvorada,50,5466
+RS,uruguaiana,48,5466
+RS,santo angelo,46,5466
+RS,esteio,41,5466
+RS,sapucaia do sul,40,5466
+RS,capao da canoa,38,5466
+RS,campo bom,36,5466
+RS,alegrete,36,5466
+RS,osorio,35,5466
+RS,cruz alta,33,5466
+RS,santa rosa,33,5466
+RS,montenegro,32,5466
+RS,cachoeira do sul,32,5466
+RS,guaiba,31,5466
+RS,gramado,30,5466
+RS,farroupilha,28,5466
+RS,santiago,26,5466
+RS,venancio aires,26,5466
+RS,sapiranga,26,5466
+RS,tramandai,25,5466
+RS,sao gabriel,24,5466
+RS,carazinho,24,5466
+RS,vacaria,23,5466
+RS,marau,22,5466
+RS,ibiruba,21,5466
+RS,taquara,21,5466
+RS,santana do livramento,20,5466
+RS,estancia velha,20,5466
+RS,carlos barbosa,20,5466
+RS,canela,18,5466
+RS,dois irmaos,18,5466
+RS,guapore,18,5466
+RS,sao borja,18,5466
+RS,veranopolis,18,5466
+RS,torres,17,5466
+RS,santo antonio da patrulha,17,5466
+RS,igrejinha,17,5466
+RS,panambi,17,5466
+RS,charqueadas,17,5466
+RS,palmeira das missoes,16,5466
+RS,nova prata,16,5466
+RS,estrela,16,5466
+RS,eldorado do sul,15,5466
+RS,cangucu,15,5466
+RS,sao luiz gonzaga,15,5466
+RS,sao lourenco do sul,14,5466
+RS,rosario do sul,14,5466
+RS,teutonia,14,5466
+RS,feliz,14,5466
+RS,frederico westphalen,14,5466
+RS,lagoa vermelha,14,5466
+RS,imbe,13,5466
+RS,ivoti,13,5466
+RS,camaqua,13,5466
+RS,sao sebastiao do cai,13,5466
+RS,santa vitoria do palmar,12,5466
+RS,tres de maio,12,5466
+RS,flores da cunha,12,5466
+RS,parobe,12,5466
+RS,mostardas,11,5466
+RS,encantado,11,5466
+RS,tres passos,11,5466
+RS,taquari,11,5466
+RS,triunfo,11,5466
+RS,rolante,10,5466
+RS,portao,10,5466
+RS,dom pedrito,10,5466
+RS,garibaldi,10,5466
+RS,girua,10,5466
+RS,julio de castilhos,10,5466
+RS,arroio do meio,10,5466
+RS,arroio dos ratos,9,5466
+RS,itaqui,9,5466
+RS,sao marcos,9,5466
+RS,santo augusto,9,5466
+RS,tapejara,9,5466
+RS,serafina correa,9,5466
+RS,xangri-la,8,5466
+RS,jaguarao,8,5466
+RS,getulio vargas,8,5466
+RS,encruzilhada do sul,8,5466
+RS,nova petropolis,8,5466
+RS,arroio do sal,8,5466
+RS,balneario pinhal,8,5466
+RS,cerro largo,7,5466
+RS,casca,7,5466
+RS,nao-me-toque,7,5466
+RS,espumoso,7,5466
+RS,horizontina,7,5466
+RS,tres cachoeiras,7,5466
+RS,santo cristo,7,5466
+RS,sao jeronimo,7,5466
+RS,sao jose do norte,7,5466
+RS,sao sepe,6,5466
+RS,rio pardo,6,5466
+RS,ronda alta,6,5466
+RS,sananduva,6,5466
+RS,tres coroas,6,5466
+RS,tapes,6,5466
+RS,campinas do sul,6,5466
+RS,bom principio,6,5466
+RS,butia,6,5466
+RS,cacapava do sul,5,5466
+RS,barra do ribeiro,5,5466
+RS,chui,5,5466
+RS,cidreira,5,5466
+RS,antonio prado,5,5466
+RS,estacao,5,5466
+RS,dom feliciano,5,5466
+RS,palmares do sul,5,5466
+RS,nova santa rita,5,5466
+RS,pinheiro machado,5,5466
+RS,palmitinho,5,5466
+RS,soledade,5,5466
+RS,terra de areia,5,5466
+RS,sao francisco de paula,5,5466
+RS,roque gonzales,5,5466
+RS,porto xavier,5,5466
+RS,sarandi,5,5466
+RS,sao jose do ouro,5,5466
+RS,pejucara,4,5466
+RS,quarai,4,5466
+RS,salto do jacui,4,5466
+RS,santo antonio das missoes,4,5466
+RS,trindade do sul,4,5466
+RS,tupancireta,4,5466
+RS,vera cruz,4,5466
+RS,nova bassano,4,5466
+RS,cruzeiro do sul,4,5466
+RS,jari,4,5466
+RS,arvorezinha,4,5466
+RS,chapada,4,5466
+RS,condor,4,5466
+RS,catuipe,4,5466
+RS,candiota,4,5466
+RS,capao do leao,4,5466
+RS,cacequi,4,5466
+RS,anta gorda,4,5466
+RS,candelaria,4,5466
+RS,campos borges,3,5466
+RS,barros cassal,3,5466
+RS,bom retiro do sul,3,5466
+RS,capao do cipo,3,5466
+RS,colorado,3,5466
+RS,cristal,3,5466
+RS,arroio grande,3,5466
+RS,jaguari,3,5466
+RS,imigrante,3,5466
+RS,ilopolis,3,5466
+RS,entre-ijuis,3,5466
+RS,gaurama,3,5466
+RS,nova hartz,3,5466
+RS,pantano grande,3,5466
+RS,parai,3,5466
+RS,planalto,3,5466
+RS,pedro osorio,3,5466
+RS,nova alvorada,3,5466
+RS,morro reuter,3,5466
+RS,maximiliano de almeida,3,5466
+RS,lavras do sul,3,5466
+RS,manoel viana,3,5466
+RS,vale real,3,5466
+RS,tupandi,3,5466
+RS,tucunduva,3,5466
+RS,tres arroios,3,5466
+RS,vila flores,3,5466
+RS,vila langaro,3,5466
+RS,tenente portela,3,5466
+RS,toropi,3,5466
+RS,sertao,3,5466
+RS,sobradinho,3,5466
+RS,redentora,3,5466
+RS,restinga seca,3,5466
+RS,sao valentim,3,5466
+RS,sao vendelino,2,5466
+RS,seberi,2,5466
+RS,sao paulo das missoes,2,5466
+RS,sao jose do hortencio,2,5466
+RS,sao francisco de assis,2,5466
+RS,santa barbara do sul,2,5466
+RS,santa clara do sul,2,5466
+RS,santo antonio do palma,2,5466
+RS,santana da boa vista,2,5466
+RS,quevedos,2,5466
+RS,protasio alves,2,5466
+RS,putinga,2,5466
+RS,roca sales,2,5466
+RS,rodeio bonito,2,5466
+RS,sinimbu,2,5466
+RS,victor graeff,2,5466
+RS,tuparendi,2,5466
+RS,macambara,2,5466
+RS,montauri,2,5466
+RS,mato leitao,2,5466
+RS,nonoai,2,5466
+RS,nova esperanca do sul,2,5466
+RS,nova palma,2,5466
+RS,novo barreiro,2,5466
+RS,formigueiro,2,5466
+RS,fazenda vilanova,2,5466
+RS,erval grande,2,5466
+RS,david canabarro,2,5466
+RS,dona francisca,2,5466
+RS,irai,2,5466
+RS,ipe,2,5466
+RS,ibiaca,2,5466
+RS,ibiraiaras,2,5466
+RS,glorinha,2,5466
+RS,guarani das missoes,2,5466
+RS,herval,2,5466
+RS,arroio do tigre,2,5466
+RS,augusto pestana,2,5466
+RS,aurea,2,5466
+RS,ararica,2,5466
+RS,ametista do sul,2,5466
+RS,acegua,2,5466
+RS,agua santa,2,5466
+RS,ajuricaba,2,5466
+RS,coxilha,2,5466
+RS,crissiumal,2,5466
+RS,coqueiro baixo,2,5466
+RS,charrua,2,5466
+RS,capao da porteira,2,5466
+RS,capela de santana,2,5466
+RS,cerro grande do sul,2,5466
+RS,boqueirao do leao,2,5466
+RS,barracao,2,5466
+RS,barao de cotegipe,2,5466
+RS,caibate,2,5466
+RS,campestre da serra,2,5466
+RS,campina das missoes,2,5466
+RS,campo novo,2,5466
+RS,candido godoi,1,5466
+RS,cambara do sul,1,5466
+RS,barao do triunfo,1,5466
+RS,barra do rio azul,1,5466
+RS,boa vista das missoes,1,5466
+RS,boa vista do burica,1,5466
+RS,boa vista do cadeado,1,5466
+RS,boa vista do sul,1,5466
+RS,bossoroca,1,5466
+RS,cerrito,1,5466
+RS,cerro grande,1,5466
+RS,caseiros,1,5466
+RS,capitao,1,5466
+RS,capivari do sul,1,5466
+RS,chiapetta,1,5466
+RS,ciriaco,1,5466
+RS,colinas,1,5466
+RS,coqueiros do sul,1,5466
+RS,cotipora,1,5466
+RS,constantina,1,5466
+RS,aguas claras,1,5466
+RS,agudo,1,5466
+RS,andre da rocha,1,5466
+RS,aratiba,1,5466
+RS,alegria,1,5466
+RS,almirante tamandare do sul,1,5466
+RS,alpestre,1,5466
+RS,alto alegre,1,5466
+RS,barao,1,5466
+RS,herveiras,1,5466
+RS,gramado dos loureiros,1,5466
+RS,gramado xavier,1,5466
+RS,hulha negra,1,5466
+RS,ibarama,1,5466
+RS,guabiju,1,5466
+RS,ipiranga,1,5466
+RS,ipiranga do sul,1,5466
+RS,itaara,1,5466
+RS,jaquirana,1,5466
+RS,itatiba do sul,1,5466
+RS,ivora,1,5466
+RS,jacuizinho,1,5466
+RS,jacutinga,1,5466
+RS,doutor mauricio cardoso,1,5466
+RS,dezesseis de novembro,1,5466
+RS,esmeralda,1,5466
+RS,erebango,1,5466
+RS,faxinalzinho,1,5466
+RS,estrela velha,1,5466
+RS,eugenio de castro,1,5466
+RS,fortaleza dos valos,1,5466
+RS,fontoura xavier,1,5466
+RS,general camara,1,5466
+RS,garruchos,1,5466
+RS,novo cabrais,1,5466
+RS,novo machado,1,5466
+RS,osvaldo kroeff,1,5466
+RS,padre gonzales,1,5466
+RS,nova roma do sul,1,5466
+RS,nova padua,1,5466
+RS,nova boa vista,1,5466
+RS,nova brescia,1,5466
+RS,picada cafe,1,5466
+RS,pinhal da serra,1,5466
+RS,polo petroquimico de triunfo,1,5466
+RS,pontao,1,5466
+RS,pinto bandeira,1,5466
+RS,piratini,1,5466
+RS,paraiso do sul,1,5466
+RS,pareci novo,1,5466
+RS,pedras altas,1,5466
+RS,nova araca,1,5466
+RS,muliterno,1,5466
+RS,monte alverne,1,5466
+RS,monte belo do sul,1,5466
+RS,monte bonito,1,5466
+RS,minas do leao,1,5466
+RS,miraguai,1,5466
+RS,morro redondo,1,5466
+RS,machadinho,1,5466
+RS,mampituba,1,5466
+RS,maquine,1,5466
+RS,mariano moro,1,5466
+RS,marques de souza,1,5466
+RS,mata,1,5466
+RS,liberato salzano,1,5466
+RS,lindolfo collor,1,5466
+RS,lagoa dos tres cantos,1,5466
+RS,lagoao,1,5466
+RS,uniao da serra,1,5466
+RS,unistalda,1,5466
+RS,vale do sol,1,5466
+RS,vanini,1,5466
+RS,vespasiano correa,1,5466
+RS,vicente dutra,1,5466
+RS,vila nova do sul,1,5466
+RS,vista alegre,1,5466
+RS,vitoria das missoes,1,5466
+RS,tapera,1,5466
+RS,taquarucu do sul,1,5466
+RS,tavares,1,5466
+RS,sertao santana,1,5466
+RS,sete de setembro,1,5466
+RS,silveira martins,1,5466
+RS,serio,1,5466
+RS,tiradentes do sul,1,5466
+RS,tres forquilhas,1,5466
+RS,travesseiro,1,5466
+RS,rainha do mar,1,5466
+RS,porto lucena,1,5466
+RS,pouso novo,1,5466
+RS,presidente lucena,1,5466
+RS,progresso,1,5466
+RS,santa maria do herval,1,5466
+RS,santo antonio do planalto,1,5466
+RS,salvador do sul,1,5466
+RS,rio dos indios,1,5466
+RS,sao domingos do sul,1,5466
+RS,santo expedito do sul,1,5466
+RS,sao jose do inhacora,1,5466
+RS,sao joao da urtiga,1,5466
+RS,sao jorge,1,5466
+RS,sao pedro do butia,1,5466
+RS,sao pedro do sul,1,5466
+RS,sao martinho,1,5466
+RS,sao nicolau,1,5466
+RS,segredo,1,5466
+RS,selbach,1,5466
+RS,senador salgado filho,1,5466
+PR,curitiba,1521,5045
+PR,londrina,306,5045
+PR,maringa,271,5045
+PR,cascavel,148,5045
+PR,ponta grossa,143,5045
+PR,sao jose dos pinhais,133,5045
+PR,foz do iguacu,87,5045
+PR,toledo,71,5045
+PR,pinhais,69,5045
+PR,guarapuava,65,5045
+PR,colombo,62,5045
+PR,paranagua,60,5045
+PR,campo mourao,56,5045
+PR,araucaria,54,5045
+PR,pato branco,53,5045
+PR,apucarana,52,5045
+PR,francisco beltrao,52,5045
+PR,paranavai,47,5045
+PR,umuarama,41,5045
+PR,cianorte,39,5045
+PR,campo largo,37,5045
+PR,arapongas,35,5045
+PR,almirante tamandare,35,5045
+PR,telemaco borba,35,5045
+PR,marechal candido rondon,31,5045
+PR,fazenda rio grande,29,5045
+PR,uniao da vitoria,29,5045
+PR,dois vizinhos,28,5045
+PR,cambe,27,5045
+PR,matinhos,27,5045
+PR,rolandia,27,5045
+PR,cornelio procopio,24,5045
+PR,medianeira,23,5045
+PR,irati,22,5045
+PR,castro,22,5045
+PR,laranjeiras do sul,20,5045
+PR,jaguariaiva,19,5045
+PR,palmas,19,5045
+PR,sarandi,19,5045
+PR,quatro barras,18,5045
+PR,mandaguari,18,5045
+PR,jacarezinho,17,5045
+PR,marialva,16,5045
+PR,lapa,15,5045
+PR,rio negro,15,5045
+PR,sao mateus do sul,15,5045
+PR,piraquara,14,5045
+PR,palmeira,13,5045
+PR,loanda,13,5045
+PR,cafelandia,13,5045
+PR,bandeirantes,13,5045
+PR,assis chateaubriand,12,5045
+PR,ibipora,12,5045
+PR,santo antonio da platina,12,5045
+PR,sao joao,11,5045
+PR,ibaiti,11,5045
+PR,goioere,11,5045
+PR,coronel vivida,11,5045
+PR,andira,11,5045
+PR,antonina,10,5045
+PR,cambara,10,5045
+PR,campina grande do sul,10,5045
+PR,paicandu,10,5045
+PR,palotina,10,5045
+PR,porecatu,10,5045
+PR,sao miguel do iguacu,10,5045
+PR,santa helena,9,5045
+PR,siqueira campos,9,5045
+PR,mangueirinha,9,5045
+PR,nova londrina,9,5045
+PR,capanema,9,5045
+PR,ampere,9,5045
+PR,arapoti,9,5045
+PR,faxinal,9,5045
+PR,guaratuba,9,5045
+PR,imbituva,8,5045
+PR,nova esperanca,8,5045
+PR,mambore,8,5045
+PR,jandaia do sul,8,5045
+PR,pinhao,8,5045
+PR,ortigueira,8,5045
+PR,quedas do iguacu,8,5045
+PR,pontal do parana,8,5045
+PR,primeiro de maio,7,5045
+PR,prudentopolis,7,5045
+PR,pirai do sul,7,5045
+PR,pinhalao,7,5045
+PR,missal,7,5045
+PR,marmeleiro,7,5045
+PR,ivaipora,7,5045
+PR,guaira,7,5045
+PR,cruzeiro do oeste,7,5045
+PR,astorga,7,5045
+PR,ceu azul,7,5045
+PR,terra rica,7,5045
+PR,ubirata,7,5045
+PR,carlopolis,6,5045
+PR,colorado,6,5045
+PR,assai,6,5045
+PR,itapejara d'oeste,6,5045
+PR,itaipulandia,6,5045
+PR,nova prata do iguacu,6,5045
+PR,mallet,6,5045
+PR,realeza,6,5045
+PR,reboucas,6,5045
+PR,rio branco do sul,6,5045
+PR,ribeirao claro,5,5045
+PR,ribeirao do pinhal,5,5045
+PR,rio azul,5,5045
+PR,quatigua,5,5045
+PR,paulo frontin,5,5045
+PR,peabiru,5,5045
+PR,mandaguacu,5,5045
+PR,japura,5,5045
+PR,inacio martins,5,5045
+PR,general carneiro,5,5045
+PR,guaraniacu,5,5045
+PR,floresta,5,5045
+PR,colonia vitoria,5,5045
+PR,diamante do norte,5,5045
+PR,bituruna,5,5045
+PR,cidade gaucha,5,5045
+PR,capitao leonidas marques,5,5045
+PR,senges,5,5045
+PR,santa fe,5,5045
+PR,terra boa,4,5045
+PR,terra roxa,4,5045
+PR,tibagi,4,5045
+PR,sertanopolis,4,5045
+PR,santa mariana,4,5045
+PR,saudade do iguacu,4,5045
+PR,candido de abreu,4,5045
+PR,chopinzinho,4,5045
+PR,centenario do sul,4,5045
+PR,cerro azul,4,5045
+PR,boa vista da aparecida,4,5045
+PR,araruna,4,5045
+PR,curiuva,4,5045
+PR,figueira,4,5045
+PR,eneas marques,4,5045
+PR,indianopolis,4,5045
+PR,itaperucu,4,5045
+PR,jesuitas,4,5045
+PR,nova santa rosa,4,5045
+PR,nova fatima,4,5045
+PR,morretes,4,5045
+PR,munhoz de melo,4,5045
+PR,manoel ribas,4,5045
+PR,pien,4,5045
+PR,planalto,4,5045
+PR,renascenca,4,5045
+PR,rio bonito do iguacu,4,5045
+PR,santa cruz de monte castelo,4,5045
+PR,salto do lontra,4,5045
+PR,salgado filho,3,5045
+PR,reserva,3,5045
+PR,quinta do sol,3,5045
+PR,pitanga,3,5045
+PR,paraiso do norte,3,5045
+PR,paranacity,3,5045
+PR,maripa,3,5045
+PR,moreira sales,3,5045
+PR,nova aurora,3,5045
+PR,nova cantu,3,5045
+PR,joaquim tavora,3,5045
+PR,jundiai do sul,3,5045
+PR,janiopolis,3,5045
+PR,japira,3,5045
+PR,lobato,3,5045
+PR,ivate,3,5045
+PR,ipiranga,3,5045
+PR,entre rios do oeste,3,5045
+PR,florestopolis,3,5045
+PR,corbelia,3,5045
+PR,cruz machado,3,5045
+PR,angulo,3,5045
+PR,altonia,3,5045
+PR,bela vista do paraiso,3,5045
+PR,areia branca dos assis,3,5045
+PR,barbosa ferraz,3,5045
+PR,clevelandia,3,5045
+PR,colonia castrolanda,3,5045
+PR,carambei,3,5045
+PR,campina da lagoa,3,5045
+PR,cafeara,3,5045
+PR,sao pedro do ivai,3,5045
+PR,sao joao do triunfo,3,5045
+PR,santo antonio do sudoeste,3,5045
+PR,santa isabel do ivai,3,5045
+PR,santa tereza do oeste,3,5045
+PR,santa terezinha de itaipu,3,5045
+PR,urai,3,5045
+PR,ventania,3,5045
+PR,vera cruz do oeste,3,5045
+PR,vere,3,5045
+PR,tomazina,3,5045
+PR,abatia,3,5045
+PR,tunas do parana,2,5045
+PR,tapejara,2,5045
+PR,teixeira soares,2,5045
+PR,serranopolis do iguacu,2,5045
+PR,tamarana,2,5045
+PR,vila nova,2,5045
+PR,turvo,2,5045
+PR,wenceslau braz,2,5045
+PR,xambre,2,5045
+PR,santa izabel do oeste,2,5045
+PR,santa monica,2,5045
+PR,sao joao do ivai,2,5045
+PR,sao jorge do patrocinio,2,5045
+PR,sao tome,2,5045
+PR,sapopema,2,5045
+PR,borrazopolis,2,5045
+PR,california,2,5045
+PR,cambira,2,5045
+PR,colonia jordaozinho,2,5045
+PR,congonhinhas,2,5045
+PR,cantagalo,2,5045
+PR,bocaiuva do sul,2,5045
+PR,amapora,2,5045
+PR,alto parana,2,5045
+PR,altamira do parana,2,5045
+PR,alto alegre,2,5045
+PR,alto alegre do iguacu,2,5045
+PR,flor da serra do sul,2,5045
+PR,florai,2,5045
+PR,espigao alto do iguacu,2,5045
+PR,engenheiro beltrao,2,5045
+PR,ipora,2,5045
+PR,inaja,2,5045
+PR,imbau,2,5045
+PR,iguaracu,2,5045
+PR,jaboti,2,5045
+PR,ivai,2,5045
+PR,itambaraca,2,5045
+PR,guaraci,2,5045
+PR,grandes rios,2,5045
+PR,lindoeste,2,5045
+PR,mandirituba,2,5045
+PR,luiziana,2,5045
+PR,lunardelli,2,5045
+PR,lupionopolis,2,5045
+PR,jardim alegre,2,5045
+PR,juranda,2,5045
+PR,itaguaje,2,5045
+PR,kalore,2,5045
+PR,nossa senhora das gracas,2,5045
+PR,mariluz,2,5045
+PR,matelandia,2,5045
+PR,mercedes,2,5045
+PR,pato bragado,2,5045
+PR,maua da serra,2,5045
+PR,palmeirinha,2,5045
+PR,porto amazonas,2,5045
+PR,perola,2,5045
+PR,perola d'oeste,2,5045
+PR,quitandinha,2,5045
+PR,rancho alegre,2,5045
+PR,roncador,2,5045
+PR,rondon,2,5045
+PR,rosario do ivai,1,5045
+PR,sabaudia,1,5045
+PR,salto do itarare,1,5045
+PR,rio verde,1,5045
+PR,santa amelia,1,5045
+PR,santa cecilia do pavao,1,5045
+PR,rancho alegre d'oeste,1,5045
+PR,reserva do iguacu,1,5045
+PR,querencia do norte,1,5045
+PR,quatro pontes,1,5045
+PR,perola independente,1,5045
+PR,perobal,1,5045
+PR,pirapo,1,5045
+PR,porto rico,1,5045
+PR,pranchita,1,5045
+PR,planaltina do parana,1,5045
+PR,palmital,1,5045
+PR,ourizona,1,5045
+PR,ouro verde do oeste,1,5045
+PR,paula freitas,1,5045
+PR,paranapoema,1,5045
+PR,mato rico,1,5045
+PR,mariopolis,1,5045
+PR,mariental,1,5045
+PR,marilandia do sul,1,5045
+PR,marilena,1,5045
+PR,nova america da colina,1,5045
+PR,nova laranjeiras,1,5045
+PR,nova esperanca do sudoeste,1,5045
+PR,novo itacolomi,1,5045
+PR,nova santa barbara,1,5045
+PR,jaguapita,1,5045
+PR,jussara,1,5045
+PR,jardim olinda,1,5045
+PR,jataizinho,1,5045
+PR,laranjal,1,5045
+PR,leopolis,1,5045
+PR,manfrinopolis,1,5045
+PR,godoy moreira,1,5045
+PR,guairaca,1,5045
+PR,guamiranga,1,5045
+PR,guapirama,1,5045
+PR,guaraquecaba,1,5045
+PR,ibema,1,5045
+PR,icaraima,1,5045
+PR,itambe,1,5045
+PR,iretama,1,5045
+PR,iguatu,1,5045
+PR,ilha dos valadares,1,5045
+PR,farol,1,5045
+PR,fenix,1,5045
+PR,foz do jordao,1,5045
+PR,florida,1,5045
+PR,formosa do oeste,1,5045
+PR,cruzeiro do iguacu,1,5045
+PR,corumbatai do sul,1,5045
+PR,coronel domingos soares,1,5045
+PR,diamante d'oeste,1,5045
+PR,doce grande,1,5045
+PR,douradina,1,5045
+PR,doutor camargo,1,5045
+PR,doutor ulysses,1,5045
+PR,alto paraiso,1,5045
+PR,alto piquiri,1,5045
+PR,alto sao joao,1,5045
+PR,bom jesus do sul,1,5045
+PR,bom sucesso,1,5045
+PR,boa esperanca,1,5045
+PR,boa esperanca do iguacu,1,5045
+PR,barra do jacare,1,5045
+PR,barracao,1,5045
+PR,balsa nova,1,5045
+PR,conselheiro mairinck,1,5045
+PR,contenda,1,5045
+PR,candoi,1,5045
+PR,campo bonito,1,5045
+PR,campo do tenente,1,5045
+PR,campo magro,1,5045
+PR,sede alvorada,1,5045
+PR,sao sebastiao da amoreira,1,5045
+PR,sao pedro do iguacu,1,5045
+PR,sao jorge d'oeste,1,5045
+PR,sao jose da boa vista,1,5045
+PR,sao miguel do cambui,1,5045
+PR,sao jorge do ivai,1,5045
+PR,sao jorge do oeste,1,5045
+PR,santo antonio do caiua,1,5045
+PR,santo inacio,1,5045
+PR,sao carlos do ivai,1,5045
+PR,sao clemente,1,5045
+PR,santa lucia,1,5045
+PR,santa margarida,1,5045
+PR,santana,1,5045
+PR,santana do itarare,1,5045
+PR,vila reis,1,5045
+PR,vitoria,1,5045
+PR,vitorino,1,5045
+PR,tamboara,1,5045
+PR,sulina,1,5045
+PR,serra dos dourados,1,5045
+PR,tupassi,1,5045
+PR,adhemar de barros,1,5045
+PR,adrianopolis,1,5045
+PR,alexandra,1,5045
+SC,florianopolis,570,3637
+SC,joinville,264,3637
+SC,blumenau,188,3637
+SC,sao jose,169,3637
+SC,itajai,120,3637
+SC,chapeco,103,3637
+SC,balneario camboriu,100,3637
+SC,palhoca,95,3637
+SC,criciuma,93,3637
+SC,jaragua do sul,89,3637
+SC,lages,84,3637
+SC,brusque,60,3637
+SC,tubarao,60,3637
+SC,concordia,50,3637
+SC,videira,47,3637
+SC,sao bento do sul,45,3637
+SC,itapema,44,3637
+SC,cacador,40,3637
+SC,sao miguel do oeste,40,3637
+SC,rio do sul,35,3637
+SC,imbituba,34,3637
+SC,navegantes,31,3637
+SC,gaspar,30,3637
+SC,tijucas,30,3637
+SC,xanxere,29,3637
+SC,camboriu,28,3637
+SC,mafra,28,3637
+SC,canoinhas,27,3637
+SC,indaial,26,3637
+SC,joacaba,26,3637
+SC,biguacu,25,3637
+SC,garopaba,23,3637
+SC,curitibanos,21,3637
+SC,icara,21,3637
+SC,braco do norte,20,3637
+SC,timbo,20,3637
+SC,ararangua,18,3637
+SC,sao francisco do sul,17,3637
+SC,penha,17,3637
+SC,barra velha,16,3637
+SC,bombinhas,15,3637
+SC,fraiburgo,15,3637
+SC,ituporanga,15,3637
+SC,taio,15,3637
+SC,porto uniao,14,3637
+SC,laguna,14,3637
+SC,campos novos,14,3637
+SC,forquilhinha,13,3637
+SC,ibirama,13,3637
+SC,guaramirim,13,3637
+SC,rio negrinho,13,3637
+SC,santo amaro da imperatriz,12,3637
+SC,itapiranga,12,3637
+SC,faxinal dos guedes,11,3637
+SC,correia pinto,11,3637
+SC,araquari,11,3637
+SC,treze tilias,11,3637
+SC,sao lourenco do oeste,11,3637
+SC,sombrio,11,3637
+SC,sao joao batista,10,3637
+SC,urussanga,10,3637
+SC,xaxim,10,3637
+SC,balneario picarras,10,3637
+SC,capinzal,10,3637
+SC,maravilha,10,3637
+SC,herval d'oeste,9,3637
+SC,itapoa,9,3637
+SC,sao joaquim,9,3637
+SC,schroeder,9,3637
+SC,pomerode,9,3637
+SC,porto belo,9,3637
+SC,pinhalzinho,9,3637
+SC,itaiopolis,8,3637
+SC,lauro muller,8,3637
+SC,orleans,8,3637
+SC,papanduva,8,3637
+SC,morro da fumaca,7,3637
+SC,campo ere,7,3637
+SC,apiuna,7,3637
+SC,passo de torres,7,3637
+SC,rodeio,7,3637
+SC,presidente getulio,7,3637
+SC,piratuba,6,3637
+SC,seara,6,3637
+SC,santa cecilia,6,3637
+SC,benedito novo,6,3637
+SC,catanduvas,6,3637
+SC,gravatal,6,3637
+SC,nova trento,6,3637
+SC,ipora do oeste,6,3637
+SC,abelardo luz,6,3637
+SC,ipumirim,5,3637
+SC,laurentino,5,3637
+SC,palmitos,5,3637
+SC,otacilio costa,5,3637
+SC,guabiruba,5,3637
+SC,garuva,5,3637
+SC,cunha pora,5,3637
+SC,capivari de baixo,5,3637
+SC,anita garibaldi,5,3637
+SC,sao carlos,5,3637
+SC,sao jose do cedro,5,3637
+SC,trombudo central,5,3637
+SC,tres barras,5,3637
+SC,petrolandia,5,3637
+SC,vargem bonita,5,3637
+SC,turvo,4,3637
+SC,praia grande,4,3637
+SC,quilombo,4,3637
+SC,rio do campo,4,3637
+SC,salto veloso,4,3637
+SC,sideropolis,4,3637
+SC,saudades,4,3637
+SC,ascurra,4,3637
+SC,balneario arroio do silva,4,3637
+SC,balneario barra do sul,4,3637
+SC,canelinha,4,3637
+SC,cocal do sul,4,3637
+SC,corupa,4,3637
+SC,palma sola,4,3637
+SC,irani,4,3637
+SC,irineopolis,4,3637
+SC,imbuia,4,3637
+SC,ibiam,4,3637
+SC,guaruja do sul,4,3637
+SC,ilhota,4,3637
+SC,jacinto machado,4,3637
+SC,ita,3,3637
+SC,palmeira,3,3637
+SC,nova veneza,3,3637
+SC,nova erechim,3,3637
+SC,monte carlo,3,3637
+SC,massaranduba,3,3637
+SC,meleiro,3,3637
+SC,major vieira,3,3637
+SC,lontras,3,3637
+SC,dionisio cerqueira,3,3637
+SC,governador celso ramos,3,3637
+SC,grao para,3,3637
+SC,balneario gaivota,3,3637
+SC,anchieta,3,3637
+SC,balneario rincao,3,3637
+SC,caibi,3,3637
+SC,sao ludgero,3,3637
+SC,timbe do sul,3,3637
+SC,sao jose do cerrito,3,3637
+SC,santa rosa de lima,3,3637
+SC,sangao,3,3637
+SC,rio fortuna,3,3637
+SC,riqueza,3,3637
+SC,rio do oeste,3,3637
+SC,pouso redondo,3,3637
+SC,ponte serrada,3,3637
+SC,urubici,3,3637
+SC,witmarsum,3,3637
+SC,xavantina,2,3637
+SC,zortea,2,3637
+SC,passos maia,2,3637
+SC,paulo lopes,2,3637
+SC,peritiba,2,3637
+SC,rancho queimado,2,3637
+SC,rio das antas,2,3637
+SC,sao joao do sul,2,3637
+SC,sao domingos,2,3637
+SC,sao martinho,2,3637
+SC,sao pedro de alcantara,2,3637
+SC,botuvera,2,3637
+SC,aurora,2,3637
+SC,bom jesus,2,3637
+SC,anitapolis,2,3637
+SC,antonio carlos,2,3637
+SC,armazem,2,3637
+SC,celso ramos,2,3637
+SC,coronel martins,2,3637
+SC,campo alegre,2,3637
+SC,luiz alves,2,3637
+SC,maracana,2,3637
+SC,mondai,2,3637
+SC,nova itaberaba,2,3637
+SC,nossa senhora de caravaggio,2,3637
+SC,ibicare,2,3637
+SC,jaguaruna,2,3637
+SC,ipira,2,3637
+SC,jabora,2,3637
+SC,alfredo wagner,2,3637
+SC,agronomica,2,3637
+SC,agua doce,1,3637
+SC,aguas frias,1,3637
+SC,aguas mornas,1,3637
+SC,alto bela vista,1,3637
+SC,agrolandia,1,3637
+SC,abdon batista,1,3637
+SC,lajeado grande,1,3637
+SC,jose boiteux,1,3637
+SC,iomere,1,3637
+SC,ouro,1,3637
+SC,paial,1,3637
+SC,novo horizonte,1,3637
+SC,paraiso,1,3637
+SC,monte castelo,1,3637
+SC,morro grande,1,3637
+SC,macieira,1,3637
+SC,lebon regis,1,3637
+SC,leoberto leal,1,3637
+SC,lindoia do sul,1,3637
+SC,caxambu do sul,1,3637
+SC,coronel freitas,1,3637
+SC,cerro negro,1,3637
+SC,chapadao do lageado,1,3637
+SC,guaraciaba,1,3637
+SC,frei rogerio,1,3637
+SC,galvao,1,3637
+SC,dona emma,1,3637
+SC,fragosos,1,3637
+SC,arroio trinta,1,3637
+SC,arvoredo,1,3637
+SC,angelina,1,3637
+SC,atalanta,1,3637
+SC,bom retiro,1,3637
+SC,belmonte,1,3637
+SC,calmon,1,3637
+SC,tangara,1,3637
+SC,treviso,1,3637
+SC,sao joao do itaperiu,1,3637
+SC,santa rosa do sul,1,3637
+SC,santa terezinha,1,3637
+SC,santa cruz do timbo,1,3637
+SC,sao cristovao do sul,1,3637
+SC,sao bernardino,1,3637
+SC,sao bonifacio,1,3637
+SC,presidente nereu,1,3637
+SC,rio dos cedros,1,3637
+SC,rio rufino,1,3637
+SC,romelandia,1,3637
+SC,picarras,1,3637
+SC,ponte alta do norte,1,3637
+SC,presidente castello branco,1,3637
+SC,vargeao,1,3637
+SC,uniao do oeste,1,3637
+SC,tunapolis,1,3637
+BA,salvador,1245,3380
+BA,feira de santana,185,3380
+BA,vitoria da conquista,92,3380
+BA,lauro de freitas,75,3380
+BA,ilheus,72,3380
+BA,itabuna,62,3380
+BA,camacari,61,3380
+BA,barreiras,52,3380
+BA,juazeiro,44,3380
+BA,porto seguro,41,3380
+BA,paulo afonso,40,3380
+BA,alagoinhas,40,3380
+BA,eunapolis,38,3380
+BA,guanambi,38,3380
+BA,jequie,36,3380
+BA,luis eduardo magalhaes,36,3380
+BA,valenca,35,3380
+BA,santo antonio de jesus,30,3380
+BA,teixeira de freitas,29,3380
+BA,jacobina,24,3380
+BA,dias d'avila,24,3380
+BA,brumado,22,3380
+BA,simoes filho,21,3380
+BA,senhor do bonfim,19,3380
+BA,cruz das almas,18,3380
+BA,itapetinga,18,3380
+BA,serrinha,15,3380
+BA,santa maria da vitoria,13,3380
+BA,pojuca,13,3380
+BA,irece,13,3380
+BA,candeias,13,3380
+BA,itamaraju,12,3380
+BA,mata de sao joao,12,3380
+BA,santo amaro,10,3380
+BA,itaberaba,10,3380
+BA,campo formoso,10,3380
+BA,caetite,10,3380
+BA,catu,10,3380
+BA,cicero dantas,10,3380
+BA,conceicao do coite,9,3380
+BA,camamu,9,3380
+BA,macaubas,9,3380
+BA,bom jesus da lapa,9,3380
+BA,valente,9,3380
+BA,tucano,8,3380
+BA,nucleo residencial pilar,8,3380
+BA,ribeira do pombal,8,3380
+BA,arraial d'ajuda,8,3380
+BA,itacare,8,3380
+BA,ipiau,8,3380
+BA,ipira,8,3380
+BA,coribe,8,3380
+BA,cansancao,7,3380
+BA,casa nova,7,3380
+BA,inhambupe,7,3380
+BA,ibotirama,7,3380
+BA,madre de deus,7,3380
+BA,barra da estiva,7,3380
+BA,ruy barbosa,7,3380
+BA,potiragua,7,3380
+BA,medeiros neto,7,3380
+BA,morro do chapeu,7,3380
+BA,mucuri,7,3380
+BA,vera cruz,7,3380
+BA,ubaira,6,3380
+BA,trancoso,6,3380
+BA,seabra,6,3380
+BA,piritiba,6,3380
+BA,jeremoabo,6,3380
+BA,canavieiras,6,3380
+BA,camacan,6,3380
+BA,entre rios,6,3380
+BA,esplanada,6,3380
+BA,euclides da cunha,5,3380
+BA,capim grosso,5,3380
+BA,ibicarai,5,3380
+BA,iraquara,5,3380
+BA,andorinha,5,3380
+BA,prado,5,3380
+BA,remanso,5,3380
+BA,riachao do jacuipe,5,3380
+BA,maracas,5,3380
+BA,miguel calmon,5,3380
+BA,livramento de nossa senhora,5,3380
+BA,paramirim,5,3380
+BA,sao sebastiao do passe,5,3380
+BA,sobradinho,5,3380
+BA,santa cruz cabralia,5,3380
+BA,santo estevao,5,3380
+BA,utinga,5,3380
+BA,una,5,3380
+BA,ubaitaba,4,3380
+BA,uibai,4,3380
+BA,uaua,4,3380
+BA,teolandia,4,3380
+BA,tanhacu,4,3380
+BA,serra do ramalho,4,3380
+BA,mutuipe,4,3380
+BA,nazare,4,3380
+BA,jacaraci,4,3380
+BA,riacho de santana,4,3380
+BA,presidente tancredo neves,4,3380
+BA,queimadas,4,3380
+BA,rio do pires,4,3380
+BA,posto da mata,4,3380
+BA,pilao arcado,4,3380
+BA,alcobaca,4,3380
+BA,buerarema,4,3380
+BA,cachoeira,4,3380
+BA,itabela,4,3380
+BA,iacu,4,3380
+BA,itiuba,4,3380
+BA,coaraci,4,3380
+BA,gandu,4,3380
+BA,crisopolis,4,3380
+BA,coronel joao sa,3,3380
+BA,dom basilio,3,3380
+BA,curaca,3,3380
+BA,formosa do rio preto,3,3380
+BA,conceicao do jacuipe,3,3380
+BA,caravelas,3,3380
+BA,candido sales,3,3380
+BA,caldeirao grande,3,3380
+BA,ituacu,3,3380
+BA,itubera,3,3380
+BA,itamari,3,3380
+BA,itambe,3,3380
+BA,itapitanga,3,3380
+BA,itarantim,3,3380
+BA,itatim,3,3380
+BA,itirucu,3,3380
+BA,ibicoara,3,3380
+BA,itajuipe,3,3380
+BA,cacule,3,3380
+BA,barra do choca,3,3380
+BA,barra do mendes,3,3380
+BA,barra do tarrachil,3,3380
+BA,belo campo,3,3380
+BA,amelia rodrigues,3,3380
+BA,araci,3,3380
+BA,pindobacu,3,3380
+BA,presidente dutra,3,3380
+BA,rio real,3,3380
+BA,rodelas,3,3380
+BA,rio de contas,3,3380
+BA,quixabeira,3,3380
+BA,nova soure,3,3380
+BA,olindina,3,3380
+BA,serrolandia,3,3380
+BA,tabocas do brejo velho,3,3380
+BA,sao francisco do conde,3,3380
+BA,sao domingos,3,3380
+BA,santa ines,3,3380
+BA,santaluz,3,3380
+BA,santana,3,3380
+BA,tanque novo,3,3380
+BA,teofilandia,3,3380
+BA,xique-xique,3,3380
+BA,wanderley,2,3380
+BA,wenceslau guimaraes,2,3380
+BA,vereda,2,3380
+BA,tapiramuta,2,3380
+BA,ubata,2,3380
+BA,urandi,2,3380
+BA,urucuca,2,3380
+BA,riachao das neves,2,3380
+BA,santa teresinha,2,3380
+BA,sao felipe,2,3380
+BA,sao jose da vitoria,2,3380
+BA,sitio do quinto,2,3380
+BA,serra dourada,2,3380
+BA,sapeacu,2,3380
+BA,saude,2,3380
+BA,oliveira dos brejinhos,2,3380
+BA,palmeiras,2,3380
+BA,paripiranga,2,3380
+BA,muquem do sao francisco,2,3380
+BA,nova canaa,2,3380
+BA,mairi,2,3380
+BA,milagres,2,3380
+BA,monte gordo,2,3380
+BA,maragogipe,2,3380
+BA,mascote,2,3380
+BA,morpara,2,3380
+BA,pocoes,2,3380
+BA,quijingue,2,3380
+BA,rio do antonio,2,3380
+BA,pintadas,2,3380
+BA,pindai,2,3380
+BA,piata,2,3380
+BA,piripa,2,3380
+BA,aramari,2,3380
+BA,arembepe,2,3380
+BA,antonio cardoso,2,3380
+BA,abaira,2,3380
+BA,abare,2,3380
+BA,abrantes,2,3380
+BA,barra,2,3380
+BA,barro alto,2,3380
+BA,baianopolis,2,3380
+BA,buritirama,2,3380
+BA,bom jesus da serra,2,3380
+BA,boninal,2,3380
+BA,bonito,2,3380
+BA,iramaia,2,3380
+BA,itagi,2,3380
+BA,itagiba,2,3380
+BA,irara,2,3380
+BA,itabatan,2,3380
+BA,ibirataia,2,3380
+BA,ichu,2,3380
+BA,ibipitanga,2,3380
+BA,ibiraja,2,3380
+BA,ibiassuce,2,3380
+BA,iguai,2,3380
+BA,itamira,2,3380
+BA,itororo,2,3380
+BA,itapicuru,2,3380
+BA,jucurucu,2,3380
+BA,jussari,2,3380
+BA,jaguaquara,2,3380
+BA,carinhanha,2,3380
+BA,castro alves,2,3380
+BA,catu de abrantes,2,3380
+BA,caturama,2,3380
+BA,conde,2,3380
+BA,elisio medrado,2,3380
+BA,fatima,2,3380
+BA,guaratinga,2,3380
+BA,dario meira,2,3380
+BA,correntina,2,3380
+BA,cristopolis,2,3380
+BA,conceicao da feira,2,3380
+BA,conceicao do almeida,1,3380
+BA,cotegipe,1,3380
+BA,cravolandia,1,3380
+BA,dias d avila,1,3380
+BA,dom macedo costa,1,3380
+BA,erico cardoso,1,3380
+BA,heliopolis,1,3380
+BA,humildes,1,3380
+BA,gentio do ouro,1,3380
+BA,gongogi,1,3380
+BA,governador mangabeira,1,3380
+BA,filadelfia,1,3380
+BA,condeuba,1,3380
+BA,coracao de maria,1,3380
+BA,cordeiros,1,3380
+BA,cocos,1,3380
+BA,cipo,1,3380
+BA,central,1,3380
+BA,chorrocho,1,3380
+BA,carnaiba do sertao,1,3380
+BA,cairu,1,3380
+BA,caldas do jorro,1,3380
+BA,campo alegre de lourdes,1,3380
+BA,canapolis,1,3380
+BA,canarana,1,3380
+BA,candeal,1,3380
+BA,caraibas,1,3380
+BA,canudos,1,3380
+BA,capela do alto alegre,1,3380
+BA,jandaira,1,3380
+BA,jaua,1,3380
+BA,lencois,1,3380
+BA,maiquinique,1,3380
+BA,jussiape,1,3380
+BA,lagoa real,1,3380
+BA,lamarao,1,3380
+BA,jiquirica,1,3380
+BA,joao dourado,1,3380
+BA,jacuipe,1,3380
+BA,itanhem,1,3380
+BA,itaparica,1,3380
+BA,itape,1,3380
+BA,ibirapua,1,3380
+BA,igapora,1,3380
+BA,igrapiuna,1,3380
+BA,ibitiara,1,3380
+BA,ibitira,1,3380
+BA,ibitita,1,3380
+BA,ibipeba,1,3380
+BA,ibiajara,1,3380
+BA,ipecaeta,1,3380
+BA,ipupiara,1,3380
+BA,itagimirim,1,3380
+BA,itaguacu da bahia,1,3380
+BA,itaju do colonia,1,3380
+BA,boquira,1,3380
+BA,botupora,1,3380
+BA,brejoes,1,3380
+BA,brejolandia,1,3380
+BA,brotas de macaubas,1,3380
+BA,cabaceiras do paraguacu,1,3380
+BA,caem,1,3380
+BA,caetanos,1,3380
+BA,baixa grande,1,3380
+BA,banzae,1,3380
+BA,barro preto,1,3380
+BA,barrocas,1,3380
+BA,belmonte,1,3380
+BA,biritinga,1,3380
+BA,acajutiba,1,3380
+BA,adustina,1,3380
+BA,antonio goncalves,1,3380
+BA,apora,1,3380
+BA,apuarema,1,3380
+BA,aracatu,1,3380
+BA,aribice,1,3380
+BA,arraial d ajuda,1,3380
+BA,arataca,1,3380
+BA,america dourada,1,3380
+BA,anage,1,3380
+BA,andarai,1,3380
+BA,amargosa,1,3380
+BA,angical,1,3380
+BA,anguera,1,3380
+BA,planaltino,1,3380
+BA,planalto,1,3380
+BA,pirai do norte,1,3380
+BA,presidente janio quadros,1,3380
+BA,ponto novo,1,3380
+BA,salinas da margarida,1,3380
+BA,salobro,1,3380
+BA,santa brigida,1,3380
+BA,ribeira do amparo,1,3380
+BA,retirolandia,1,3380
+BA,morro de sao paulo,1,3380
+BA,mundo novo,1,3380
+BA,mucuge,1,3380
+BA,monte santo,1,3380
+BA,mansidao,1,3380
+BA,nova fatima,1,3380
+BA,nova redencao,1,3380
+BA,muritiba,1,3380
+BA,nova vicosa,1,3380
+BA,pau brasil,1,3380
+BA,pedrao,1,3380
+BA,sento se,1,3380
+BA,satiro dias,1,3380
+BA,saubara,1,3380
+BA,taboquinhas,1,3380
+BA,sao miguel das matas,1,3380
+BA,sao desiderio,1,3380
+BA,sao felix,1,3380
+BA,sao felix do coribe,1,3380
+BA,santana do sobrado,1,3380
+BA,umburanas,1,3380
+BA,teodoro sampaio,1,3380
+BA,wagner,1,3380
+BA,varzea do poco,1,3380
+BA,varzea nova,1,3380
+BA,varzedo,1,3380
+DF,brasilia,2131,2140
+DF,taguatinga,4,2140
+DF,guara,2,2140
+DF,santa maria,1,2140
+DF,sobradinho,1,2140
+DF,ceilandia,1,2140
+ES,vitoria,379,2033
+ES,vila velha,334,2033
+ES,serra,285,2033
+ES,cariacica,139,2033
+ES,cachoeiro de itapemirim,122,2033
+ES,guarapari,67,2033
+ES,colatina,65,2033
+ES,linhares,65,2033
+ES,sao mateus,48,2033
+ES,aracruz,41,2033
+ES,viana,21,2033
+ES,nova venecia,19,2033
+ES,castelo,18,2033
+ES,alegre,17,2033
+ES,piuma,17,2033
+ES,marataizes,16,2033
+ES,guacui,16,2033
+ES,santa maria de jetiba,15,2033
+ES,venda nova do imigrante,15,2033
+ES,sao gabriel da palha,14,2033
+ES,jaguare,14,2033
+ES,anchieta,14,2033
+ES,afonso claudio,11,2033
+ES,barra de sao francisco,10,2033
+ES,mimoso do sul,10,2033
+ES,montanha,10,2033
+ES,santa teresa,10,2033
+ES,domingos martins,9,2033
+ES,ibatiba,9,2033
+ES,ecoporanga,8,2033
+ES,marilandia,8,2033
+ES,joao neiva,8,2033
+ES,baixo guandu,8,2033
+ES,pinheiros,8,2033
+ES,vila valerio,8,2033
+ES,sao domingos do norte,7,2033
+ES,boa esperanca,7,2033
+ES,alfredo chaves,7,2033
+ES,itaguacu,7,2033
+ES,apiaca,6,2033
+ES,sao jose do calcado,6,2033
+ES,rio novo do sul,6,2033
+ES,pedro canario,5,2033
+ES,sooretama,5,2033
+ES,vargem alta,5,2033
+ES,sao roque do canaa,5,2033
+ES,marechal floriano,5,2033
+ES,fundao,5,2033
+ES,conceicao do castelo,5,2033
+ES,iconha,5,2033
+ES,itapemirim,4,2033
+ES,dores do rio preto,4,2033
+ES,muqui,4,2033
+ES,itaipava,4,2033
+ES,mantenopolis,4,2033
+ES,arace,4,2033
+ES,bom jesus do norte,4,2033
+ES,agua doce do norte,4,2033
+ES,rio bananal,4,2033
+ES,conceicao da barra,3,2033
+ES,itarana,3,2033
+ES,iuna,2,2033
+ES,jacigua,2,2033
+ES,irupi,2,2033
+ES,governador lindenberg,2,2033
+ES,itaoca,2,2033
+ES,jeronimo monteiro,2,2033
+ES,muniz freire,2,2033
+ES,aguia branca,2,2033
+ES,braco do rio,2,2033
+ES,celina,2,2033
+ES,alto rio novo,2,2033
+ES,presidente kennedy,2,2033
+ES,vila nelita,2,2033
+ES,vargem grande do soturno,1,2033
+ES,sao joao de petropolis,1,2033
+ES,sao joao do sobrado,1,2033
+ES,quilometro 14 do mutum,1,2033
+ES,santa leopoldina,1,2033
+ES,santo antonio do canaa,1,2033
+ES,piacu,1,2033
+ES,ponto belo,1,2033
+ES,praia grande,1,2033
+ES,novo brasil,1,2033
+ES,pacotuba,1,2033
+ES,pancas,1,2033
+ES,paraju,1,2033
+ES,angelo frechiani,1,2033
+ES,araguaia,1,2033
+ES,atilio vivacqua,1,2033
+ES,brejetuba,1,2033
+ES,mucurici,1,2033
+ES,laranja da terra,1,2033
+ES,divino de sao lourenco,1,2033
+ES,ibiracu,1,2033
+GO,goiania,692,2020
+GO,anapolis,113,2020
+GO,aparecida de goiania,110,2020
+GO,rio verde,66,2020
+GO,jatai,54,2020
+GO,valparaiso de goias,37,2020
+GO,itumbiara,36,2020
+GO,caldas novas,36,2020
+GO,formosa,34,2020
+GO,catalao,34,2020
+GO,luziania,33,2020
+GO,mineiros,26,2020
+GO,trindade,24,2020
+GO,aguas lindas de goias,24,2020
+GO,goianesia,18,2020
+GO,uruacu,17,2020
+GO,posse,17,2020
+GO,novo gama,16,2020
+GO,senador canedo,16,2020
+GO,inhumas,16,2020
+GO,ipora,15,2020
+GO,niquelandia,14,2020
+GO,morrinhos,14,2020
+GO,quirinopolis,14,2020
+GO,porangatu,13,2020
+GO,ipameri,13,2020
+GO,pires do rio,12,2020
+GO,minacu,11,2020
+GO,planaltina,10,2020
+GO,piracanjuba,10,2020
+GO,goiatuba,10,2020
+GO,santa helena de goias,9,2020
+GO,alto paraiso de goias,9,2020
+GO,anicuns,8,2020
+GO,cacu,8,2020
+GO,bom jesus,8,2020
+GO,sao luis de montes belos,8,2020
+GO,goianira,8,2020
+GO,goias,8,2020
+GO,chapadao do ceu,8,2020
+GO,cidade ocidental,8,2020
+GO,cristalina,8,2020
+GO,crixas,8,2020
+GO,ceres,7,2020
+GO,firminopolis,7,2020
+GO,itapuranga,7,2020
+GO,jaragua,7,2020
+GO,santa rita do araguaia,7,2020
+GO,rubiataba,7,2020
+GO,silvania,7,2020
+GO,mozarlandia,7,2020
+GO,neropolis,7,2020
+GO,bela vista de goias,7,2020
+GO,campinorte,7,2020
+GO,campos belos,7,2020
+GO,acreuna,7,2020
+GO,cachoeira alta,6,2020
+GO,orizona,6,2020
+GO,itaberai,6,2020
+GO,guapo,6,2020
+GO,castelandia,5,2020
+GO,joviania,5,2020
+GO,santo antonio do descoberto,5,2020
+GO,sao miguel do araguaia,5,2020
+GO,alexania,5,2020
+GO,aragarcas,4,2020
+GO,caiaponia,4,2020
+GO,santa fe de goias,4,2020
+GO,sanclerlandia,4,2020
+GO,uruana,4,2020
+GO,padre bernardo,4,2020
+GO,piranhas,4,2020
+GO,pirenopolis,4,2020
+GO,parauna,4,2020
+GO,rianapolis,4,2020
+GO,nova veneza,4,2020
+GO,maurilandia,4,2020
+GO,iaciara,4,2020
+GO,indiara,4,2020
+GO,itapaci,4,2020
+GO,corumbaiba,4,2020
+GO,goianapolis,4,2020
+GO,edeia,4,2020
+GO,fazenda nova,4,2020
+GO,sao simao,4,2020
+GO,itaja,3,2020
+GO,inaciolandia,3,2020
+GO,jussara,3,2020
+GO,paranaiguara,3,2020
+GO,palmeiras de goias,3,2020
+GO,urutai,3,2020
+GO,vianopolis,3,2020
+GO,sao joao d'alianca,3,2020
+GO,serranopolis,3,2020
+GO,alvorada do norte,3,2020
+GO,americano do brasil,3,2020
+GO,alto horizonte,2,2020
+GO,araguapaz,2,2020
+GO,aruana,2,2020
+GO,campo alegre de goias,2,2020
+GO,cachoeira dourada,2,2020
+GO,bonfinopolis,2,2020
+GO,brazabrantes,2,2020
+GO,santa cruz de goias,2,2020
+GO,vicentinopolis,2,2020
+GO,turvania,2,2020
+GO,simolandia,2,2020
+GO,portelandia,2,2020
+GO,planaltina de goias,2,2020
+GO,pontalina,2,2020
+GO,mundo novo,2,2020
+GO,nazario,2,2020
+GO,mambai,2,2020
+GO,mara rosa,2,2020
+GO,matrincha,2,2020
+GO,jesupolis,2,2020
+GO,hidrolina,2,2020
+GO,itaguacu,2,2020
+GO,itaguaru,2,2020
+GO,itapirapua,2,2020
+GO,domiciano ribeiro,2,2020
+GO,doverlandia,2,2020
+GO,corumba de goias,2,2020
+GO,cumari,2,2020
+GO,damianopolis,2,2020
+GO,diorama,2,2020
+GO,cavalcante,2,2020
+GO,carmo do rio verde,2,2020
+GO,cezarina,1,2020
+GO,cocalzinho de goias,1,2020
+GO,divinopolis de goias,1,2020
+GO,crominia,1,2020
+GO,flores de goias,1,2020
+GO,formoso,1,2020
+GO,goiandira,1,2020
+GO,hidrolandia,1,2020
+GO,jandaia,1,2020
+GO,ipiranga de goias,1,2020
+GO,itaguari,1,2020
+GO,mairipotaba,1,2020
+GO,mimoso de goias,1,2020
+GO,lagoa santa,1,2020
+GO,leopoldo de bulhoes,1,2020
+GO,jardim abc de goias,1,2020
+GO,jaupaci,1,2020
+GO,mutunopolis,1,2020
+GO,morro agudo de goias,1,2020
+GO,mossamedes,1,2020
+GO,montividiu do norte,1,2020
+GO,novo planalto,1,2020
+GO,nova america,1,2020
+GO,nova aurora,1,2020
+GO,nova crixas,1,2020
+GO,nova roma,1,2020
+GO,palminopolis,1,2020
+GO,ouro verde de goias,1,2020
+GO,ouvidor,1,2020
+GO,teresina de goias,1,2020
+GO,trombas,1,2020
+GO,turvelandia,1,2020
+GO,sao joao da parauna,1,2020
+GO,santo antonio de goias,1,2020
+GO,sao patricio,1,2020
+GO,sao luiz do norte,1,2020
+GO,britania,1,2020
+GO,buriti alegre,1,2020
+GO,cabeceiras,1,2020
+GO,bom jardim de goias,1,2020
+GO,campos verdes,1,2020
+GO,campinacu,1,2020
+GO,aurilandia,1,2020
+GO,barro alto,1,2020
+GO,arenopolis,1,2020
+GO,aragoiania,1,2020
+GO,apore,1,2020
+GO,agua fria de goias,1,2020
+GO,agua limpa,1,2020
+GO,abadiania,1,2020
+PE,recife,613,1652
+PE,jaboatao dos guararapes,135,1652
+PE,olinda,93,1652
+PE,petrolina,65,1652
+PE,caruaru,64,1652
+PE,paulista,41,1652
+PE,camaragibe,35,1652
+PE,garanhuns,31,1652
+PE,cabo de santo agostinho,21,1652
+PE,ipojuca,17,1652
+PE,salgueiro,17,1652
+PE,vitoria de santo antao,15,1652
+PE,santa cruz do capibaribe,13,1652
+PE,igarassu,13,1652
+PE,araripina,12,1652
+PE,belo jardim,12,1652
+PE,sao lourenco da mata,12,1652
+PE,bezerros,11,1652
+PE,abreu e lima,11,1652
+PE,gravata,11,1652
+PE,carpina,10,1652
+PE,escada,10,1652
+PE,serra talhada,10,1652
+PE,petrolandia,10,1652
+PE,pesqueira,9,1652
+PE,palmares,9,1652
+PE,goiana,9,1652
+PE,afogados da ingazeira,8,1652
+PE,ouricuri,8,1652
+PE,taquaritinga do norte,7,1652
+PE,timbauba,7,1652
+PE,lajedo,7,1652
+PE,limoeiro,7,1652
+PE,catende,7,1652
+PE,bom conselho,7,1652
+PE,cabrobo,6,1652
+PE,floresta,6,1652
+PE,aguas belas,6,1652
+PE,barreiros,6,1652
+PE,arcoverde,5,1652
+PE,custodia,5,1652
+PE,feira nova,5,1652
+PE,bonito,5,1652
+PE,moreno,5,1652
+PE,toritama,5,1652
+PE,sirinhaem,5,1652
+PE,surubim,5,1652
+PE,tabira,5,1652
+PE,sao bento do una,5,1652
+PE,sertania,4,1652
+PE,trindade,4,1652
+PE,parnamirim,4,1652
+PE,ribeirao,4,1652
+PE,sao jose do egito,4,1652
+PE,jatoba,4,1652
+PE,joaquim nabuco,4,1652
+PE,lagoa grande,4,1652
+PE,ilha de itamaraca,4,1652
+PE,itambe,4,1652
+PE,brejo da madre de deus,4,1652
+PE,gameleira,4,1652
+PE,condado,4,1652
+PE,camutanga,3,1652
+PE,ipubi,3,1652
+PE,jaqueira,3,1652
+PE,itapissuma,3,1652
+PE,iati,3,1652
+PE,ibimirim,3,1652
+PE,lagoa dos gatos,3,1652
+PE,joao alfredo,3,1652
+PE,mirandiba,3,1652
+PE,saloa,3,1652
+PE,sanharo,3,1652
+PE,oroco,3,1652
+PE,pedra,3,1652
+PE,tuparetama,3,1652
+PE,venturosa,2,1652
+PE,triunfo,2,1652
+PE,tracunhaem,2,1652
+PE,serrita,2,1652
+PE,tacaratu,2,1652
+PE,sao vicente ferrer,2,1652
+PE,sao jose da coroa grande,2,1652
+PE,sao jose do belmonte,2,1652
+PE,paudalho,2,1652
+PE,nossa senhora do o,2,1652
+PE,panelas,2,1652
+PE,santa cruz,2,1652
+PE,riacho das almas,2,1652
+PE,rio formoso,2,1652
+PE,santa maria da boa vista,2,1652
+PE,vicencia,2,1652
+PE,moreilandia,2,1652
+PE,macaparana,2,1652
+PE,jupi,2,1652
+PE,lagoa do carro,2,1652
+PE,lagoa do ouro,2,1652
+PE,inaja,2,1652
+PE,gloria do goita,2,1652
+PE,itaquitinga,2,1652
+PE,jatauba,2,1652
+PE,itapetim,2,1652
+PE,canhotinho,2,1652
+PE,caraiba,2,1652
+PE,bom jardim,2,1652
+PE,camocim de sao felix,2,1652
+PE,buenos aires,2,1652
+PE,cortes,2,1652
+PE,cumaru,2,1652
+PE,dormentes,2,1652
+PE,barra de guabiraba,2,1652
+PE,altinho,2,1652
+PE,amaraji,2,1652
+PE,aracoiaba,2,1652
+PE,belem do sao francisco,2,1652
+PE,bodoco,2,1652
+PE,afranio,2,1652
+PE,agrestina,1,1652
+PE,agua preta,1,1652
+PE,alianca,1,1652
+PE,ferreiros,1,1652
+PE,flores,1,1652
+PE,cupira,1,1652
+PE,correntes,1,1652
+PE,cha de alegria,1,1652
+PE,cha grande,1,1652
+PE,buique,1,1652
+PE,caetes,1,1652
+PE,calcado,1,1652
+PE,capoeiras,1,1652
+PE,jurema,1,1652
+PE,machados,1,1652
+PE,nazare da mata,1,1652
+PE,santa terezinha,1,1652
+PE,santo antonio das queimadas,1,1652
+PE,sao benedito do sul,1,1652
+PE,santa filomena,1,1652
+PE,passira,1,1652
+PE,orobo,1,1652
+PE,pocao,1,1652
+PE,pombos,1,1652
+PE,quipapa,1,1652
+PE,quixada,1,1652
+PE,sao domingos,1,1652
+PE,sao joao,1,1652
+PE,sao joaquim do monte,1,1652
+PE,tamandare,1,1652
+PE,siriji,1,1652
+PE,terezinha,1,1652
+PE,terra nova,1,1652
+PE,vertentes,1,1652
+PE,xexeu,1,1652
+CE,fortaleza,654,1336
+CE,sobral,36,1336
+CE,maracanau,35,1336
+CE,caucaia,35,1336
+CE,juazeiro do norte,34,1336
+CE,aracati,22,1336
+CE,crato,19,1336
+CE,iguatu,14,1336
+CE,eusebio,13,1336
+CE,limoeiro do norte,12,1336
+CE,quixada,12,1336
+CE,itapipoca,11,1336
+CE,taua,10,1336
+CE,brejo santo,10,1336
+CE,crateus,9,1336
+CE,tiangua,9,1336
+CE,russas,9,1336
+CE,morada nova,9,1336
+CE,ico,8,1336
+CE,camocim,8,1336
+CE,acarau,8,1336
+CE,acopiara,7,1336
+CE,cruz,7,1336
+CE,hidrolandia,7,1336
+CE,nova russas,7,1336
+CE,itapaje,6,1336
+CE,quixeramobim,6,1336
+CE,pacajus,6,1336
+CE,barbalha,6,1336
+CE,caninde,6,1336
+CE,cascavel,5,1336
+CE,horizonte,5,1336
+CE,icapui,5,1336
+CE,granja,5,1336
+CE,pacatuba,5,1336
+CE,paracuru,5,1336
+CE,paraipaba,5,1336
+CE,redencao,5,1336
+CE,santa quiteria,5,1336
+CE,sao goncalo do amarante,5,1336
+CE,jaguaribe,5,1336
+CE,jaguaruana,4,1336
+CE,jijoca de jericoacoara,4,1336
+CE,morrinhos,4,1336
+CE,santana do acarau,4,1336
+CE,sao benedito,4,1336
+CE,parambu,4,1336
+CE,guaraciaba do norte,4,1336
+CE,forquilha,4,1336
+CE,ipu,4,1336
+CE,itaitinga,4,1336
+CE,campos sales,4,1336
+CE,barro,4,1336
+CE,bela cruz,4,1336
+CE,senador pompeu,4,1336
+CE,varjota,4,1336
+CE,sucesso,3,1336
+CE,ubajara,3,1336
+CE,boa viagem,3,1336
+CE,baturite,3,1336
+CE,beberibe,3,1336
+CE,aurora,3,1336
+CE,aracoiaba,3,1336
+CE,carire,3,1336
+CE,carius,3,1336
+CE,catarina,3,1336
+CE,ipueiras,3,1336
+CE,ibiapina,3,1336
+CE,deputado irapuan pinheiro,3,1336
+CE,quixere,3,1336
+CE,pereiro,3,1336
+CE,santana do cariri,3,1336
+CE,reriutaba,3,1336
+CE,monsenhor tabosa,3,1336
+CE,nova olinda,3,1336
+CE,novo oriente,3,1336
+CE,maranguape,3,1336
+CE,marco,3,1336
+CE,alto santo,3,1336
+CE,abaiara,2,1336
+CE,massape,2,1336
+CE,meruoca,2,1336
+CE,milagres,2,1336
+CE,milha,2,1336
+CE,miraima,2,1336
+CE,ocara,2,1336
+CE,oros,2,1336
+CE,lavras da mangabeira,2,1336
+CE,jardim,2,1336
+CE,itapiuna,2,1336
+CE,potengi,2,1336
+CE,sao luis do curu,2,1336
+CE,solonopole,2,1336
+CE,trairi,2,1336
+CE,quixelo,2,1336
+CE,pedra branca,2,1336
+CE,penaforte,2,1336
+CE,pentecoste,2,1336
+CE,pacoti,2,1336
+CE,frecheirinha,2,1336
+CE,guaiuba,2,1336
+CE,iracema,2,1336
+CE,iraucuba,2,1336
+CE,ipaporanga,2,1336
+CE,altaneira,2,1336
+CE,carnaubal,2,1336
+CE,caririacu,2,1336
+CE,araripe,2,1336
+CE,aratuba,2,1336
+CE,arneiroz,2,1336
+CE,apuiares,2,1336
+CE,aquiraz,2,1336
+CE,varzea alegre,2,1336
+CE,uruoca,2,1336
+CE,vicosa do ceara,1,1336
+CE,uruburetama,1,1336
+CE,tabuleiro do norte,1,1336
+CE,taperuaba,1,1336
+CE,aiuaba,1,1336
+CE,assare,1,1336
+CE,banabuiu,1,1336
+CE,barreira,1,1336
+CE,capistrano,1,1336
+CE,caridade,1,1336
+CE,cedro,1,1336
+CE,chaval,1,1336
+CE,chorozinho,1,1336
+CE,coreau,1,1336
+CE,ipaumirim,1,1336
+CE,itapage,1,1336
+CE,itaicaba,1,1336
+CE,independencia,1,1336
+CE,ibicuitinga,1,1336
+CE,fortim,1,1336
+CE,guassusse,1,1336
+CE,groairas,1,1336
+CE,dourado,1,1336
+CE,erere,1,1336
+CE,flores,1,1336
+CE,croata,1,1336
+CE,pacuja,1,1336
+CE,palhano,1,1336
+CE,pindoretama,1,1336
+CE,pires ferreira,1,1336
+CE,porteiras,1,1336
+CE,tururu,1,1336
+CE,saboeiro,1,1336
+CE,itarema,1,1336
+CE,jaguaribara,1,1336
+CE,madalena,1,1336
+CE,jucas,1,1336
+CE,lages,1,1336
+CE,lagoa do mato,1,1336
+CE,mucambo,1,1336
+CE,missao velha,1,1336
+CE,missi,1,1336
+CE,mombaca,1,1336
+CE,mauriti,1,1336
+CE,amanari,1,1336
+CE,amontada,1,1336
+CE,antonina do norte,1,1336
+PA,belem,443,975
+PA,ananindeua,88,975
+PA,santarem,44,975
+PA,parauapebas,27,975
+PA,altamira,25,975
+PA,castanhal,22,975
+PA,maraba,22,975
+PA,paragominas,19,975
+PA,tucurui,17,975
+PA,marituba,15,975
+PA,redencao,13,975
+PA,abaetetuba,11,975
+PA,braganca,9,975
+PA,canaa dos carajas,9,975
+PA,rondon do para,9,975
+PA,xinguara,9,975
+PA,sao felix do xingu,8,975
+PA,conceicao do araguaia,7,975
+PA,jacunda,6,975
+PA,barcarena,6,975
+PA,uruara,6,975
+PA,santa isabel do para,6,975
+PA,pacaja,6,975
+PA,ourilandia do norte,5,975
+PA,quatro bocas,5,975
+PA,sao miguel do guama,5,975
+PA,capanema,5,975
+PA,dom eliseu,5,975
+PA,novo progresso,5,975
+PA,moju,4,975
+PA,carajas,4,975
+PA,cameta,4,975
+PA,tailandia,4,975
+PA,vila dos cabanos,4,975
+PA,tucuma,4,975
+PA,santana do araguaia,3,975
+PA,vigia,3,975
+PA,rio maria,3,975
+PA,capitao poco,3,975
+PA,brasil novo,3,975
+PA,breu branco,3,975
+PA,augusto correa,3,975
+PA,bom jesus do tocantins,3,975
+PA,curuca,3,975
+PA,concordia do para,3,975
+PA,itaituba,3,975
+PA,garrafao do norte,3,975
+PA,goianesia do para,3,975
+PA,hidreletrica tucurui,3,975
+PA,mojui dos campos,2,975
+PA,novo repartimento,2,975
+PA,oeiras do para,2,975
+PA,bonito,2,975
+PA,benevides,2,975
+PA,santa maria do para,2,975
+PA,ipixuna do para,2,975
+PA,mae do rio,2,975
+PA,placas,2,975
+PA,porto trombetas,2,975
+PA,sao sebastiao da boa vista,2,975
+PA,sao joao de pirabas,2,975
+PA,santo antonio do taua,1,975
+PA,sao domingos do araguaia,1,975
+PA,senador jose porfirio,1,975
+PA,tome-acu,1,975
+PA,tracuateua,1,975
+PA,viseu,1,975
+PA,ulianopolis,1,975
+PA,pau d'arco,1,975
+PA,picarra,1,975
+PA,santa barbara do para,1,975
+PA,aurora do para,1,975
+PA,breves,1,975
+PA,ourem,1,975
+PA,medicilandia,1,975
+PA,mocajuba,1,975
+PA,monte alegre,1,975
+PA,morada nova,1,975
+PA,murucupi,1,975
+PA,nova esperanca do piria,1,975
+PA,nova ipixuna,1,975
+PA,nova timboteua,1,975
+PA,igarape-acu,1,975
+PA,igarape-miri,1,975
+PA,itupiranga,1,975
+PA,jacareacanga,1,975
+PA,juruti,1,975
+PA,curralinho,1,975
+PA,floresta do araguaia,1,975
+MT,cuiaba,248,907
+MT,rondonopolis,65,907
+MT,sinop,46,907
+MT,varzea grande,41,907
+MT,primavera do leste,28,907
+MT,barra do garcas,25,907
+MT,caceres,25,907
+MT,lucas do rio verde,24,907
+MT,tangara da serra,24,907
+MT,sorriso,20,907
+MT,agua boa,18,907
+MT,juina,17,907
+MT,campo novo do parecis,16,907
+MT,mirassol d'oeste,14,907
+MT,alta floresta,12,907
+MT,nova xavantina,10,907
+MT,querencia,10,907
+MT,campo verde,10,907
+MT,canarana,10,907
+MT,pontes e lacerda,9,907
+MT,colider,8,907
+MT,aripuana,8,907
+MT,sapezal,8,907
+MT,comodoro,7,907
+MT,confresa,7,907
+MT,diamantino,7,907
+MT,matupa,7,907
+MT,campos de julio,6,907
+MT,guaranta do norte,5,907
+MT,itauba,5,907
+MT,jauru,5,907
+MT,juara,5,907
+MT,nova mutum,5,907
+MT,alto araguaia,5,907
+MT,alto boa vista,5,907
+MT,araputanga,4,907
+MT,nova bandeirantes,4,907
+MT,paranaita,4,907
+MT,pedra preta,4,907
+MT,peixoto de azevedo,4,907
+MT,salto do ceu,4,907
+MT,barra do bugres,4,907
+MT,chapada dos guimaraes,4,907
+MT,claudia,4,907
+MT,cocalinho,4,907
+MT,rio branco,4,907
+MT,vila rica,3,907
+MT,vera,3,907
+MT,terra nova do norte,3,907
+MT,colniza,3,907
+MT,campinapolis,3,907
+MT,jaciara,3,907
+MT,dom aquino,3,907
+MT,castanheira,3,907
+MT,nova canaa do norte,3,907
+MT,juruena,3,907
+MT,nova monte verde,3,907
+MT,novo sao joaquim,3,907
+MT,alto taquari,3,907
+MT,arenapolis,2,907
+MT,alto garcas,2,907
+MT,nova olimpia,2,907
+MT,juscimeira,2,907
+MT,reserva do cabacal,2,907
+MT,paranatinga,2,907
+MT,porto esperidiao,2,907
+MT,cotriguacu,2,907
+MT,figueiropolis d'oeste,2,907
+MT,gaucha do norte,2,907
+MT,denise,2,907
+MT,carlinda,2,907
+MT,sao jose dos quatro marcos,2,907
+MT,tabapora,2,907
+MT,poxoreu,2,907
+MT,ribeiraozinho,2,907
+MT,sao jose do rio claro,2,907
+MT,sao jose do xingu,1,907
+MT,uniao do sul,1,907
+MT,tapurah,1,907
+MT,vila bela da santissima trindade,1,907
+MT,conquista d'oeste,1,907
+MT,bom jesus do araguaia,1,907
+MT,itiquira,1,907
+MT,ipiranga do norte,1,907
+MT,itanhanga,1,907
+MT,feliz natal,1,907
+MT,curvelandia,1,907
+MT,porto estrela,1,907
+MT,porto alegre do norte,1,907
+MT,porto dos gauchos,1,907
+MT,ribeirao cascalheira,1,907
+MT,santo antonio do leste,1,907
+MT,santo antonio do leverger,1,907
+MT,sao felix do araguaia,1,907
+MT,nova guarita,1,907
+MT,nova lacerda,1,907
+MT,nova ubirata,1,907
+MT,nobres,1,907
+MT,nortelandia,1,907
+MT,novo mundo,1,907
+MT,apiacas,1,907
+MA,sao luis,353,747
+MA,imperatriz,40,747
+MA,balsas,17,747
+MA,caxias,16,747
+MA,timon,15,747
+MA,sao jose de ribamar,14,747
+MA,presidente dutra,12,747
+MA,santa ines,12,747
+MA,bacabal,11,747
+MA,coroata,9,747
+MA,codo,8,747
+MA,barra do corda,7,747
+MA,paco do lumiar,7,747
+MA,sao joao dos patos,7,747
+MA,acailandia,7,747
+MA,alto parnaiba,5,747
+MA,urbano santos,5,747
+MA,viana,5,747
+MA,ze doca,5,747
+MA,lago da pedra,5,747
+MA,joao lisboa,5,747
+MA,buriticupu,5,747
+MA,grajau,5,747
+MA,coelho neto,4,747
+MA,barreirinhas,4,747
+MA,maracacume,4,747
+MA,itapecuru mirim,4,747
+MA,nova olinda do maranhao,4,747
+MA,pinheiro,4,747
+MA,pedreiras,3,747
+MA,mirinzal,3,747
+MA,paraibano,3,747
+MA,fortuna,3,747
+MA,bacuri,3,747
+MA,colinas,3,747
+MA,chapadinha,3,747
+MA,cedral,3,747
+MA,cururupu,3,747
+MA,dom pedro,3,747
+MA,esperantinopolis,3,747
+MA,estreito,3,747
+MA,vitorino freire,3,747
+MA,sao mateus do maranhao,3,747
+MA,sao bernardo,3,747
+MA,maioba,3,747
+MA,pindare mirim,3,747
+MA,santa helena,3,747
+MA,porto franco,2,747
+MA,sao domingos do maranhao,2,747
+MA,santa luzia,2,747
+MA,sao bento,2,747
+MA,satubinha,2,747
+MA,vitoria do mearim,2,747
+MA,sucupira do norte,2,747
+MA,tutoia,2,747
+MA,capinzal do norte,2,747
+MA,carolina,2,747
+MA,carutapera,2,747
+MA,arari,2,747
+MA,campestre do maranhao,2,747
+MA,boa vista do gurupi,2,747
+MA,bom jesus das selvas,2,747
+MA,mata roma,2,747
+MA,matoes do norte,2,747
+MA,olho d'agua das cunhas,2,747
+MA,pastos bons,2,747
+MA,paulino neves,1,747
+MA,peri mirim,1,747
+MA,pio xii,1,747
+MA,pirapemas,1,747
+MA,pocao de pedras,1,747
+MA,moncao,1,747
+MA,parnarama,1,747
+MA,passagem franca,1,747
+MA,miranda do norte,1,747
+MA,matoes,1,747
+MA,maranhaozinho,1,747
+MA,joselandia,1,747
+MA,goncalves dias,1,747
+MA,governador eugenio barros,1,747
+MA,jatoba,1,747
+MA,lago verde,1,747
+MA,loreto,1,747
+MA,magalhaes de almeida,1,747
+MA,brejo,1,747
+MA,buriti,1,747
+MA,bom jardim,1,747
+MA,candido mendes,1,747
+MA,cantanhede,1,747
+MA,cajapio,1,747
+MA,cajari,1,747
+MA,bela vista do maranhao,1,747
+MA,benedito leite,1,747
+MA,bequimao,1,747
+MA,centro novo do maranhao,1,747
+MA,cidelandia,1,747
+MA,formosa da serra negra,1,747
+MA,guimaraes,1,747
+MA,humberto de campos,1,747
+MA,icatu,1,747
+MA,vargem grande,1,747
+MA,senador la rocque,1,747
+MA,sitio novo,1,747
+MA,sao pedro da agua branca,1,747
+MA,sao vicente ferrer,1,747
+MA,santa luzia do parua,1,747
+MA,santa quiteria do maranhao,1,747
+MA,santa rita,1,747
+MA,sao benedito do rio preto,1,747
+MA,sao francisco do brejao,1,747
+MA,sao joao batista,1,747
+MA,sao joao do paraiso,1,747
+MA,presidente juscelino,1,747
+MA,presidente medici,1,747
+MA,rosario,1,747
+MA,sambaiba,1,747
+MA,amapa do maranhao,1,747
+MA,araguana,1,747
+MA,arame,1,747
+MA,alcantara,1,747
+MA,alto alegre do maranhao,1,747
+MA,alto alegre do pindare,1,747
+MS,campo grande,320,715
+MS,dourados,64,715
+MS,tres lagoas,42,715
+MS,corumba,28,715
+MS,ponta pora,18,715
+MS,paranaiba,15,715
+MS,chapadao do sul,14,715
+MS,maracaju,13,715
+MS,costa rica,12,715
+MS,coxim,11,715
+MS,nova andradina,11,715
+MS,rio brilhante,11,715
+MS,sidrolandia,11,715
+MS,navirai,8,715
+MS,bonito,8,715
+MS,aparecida do taboado,7,715
+MS,sao gabriel do oeste,7,715
+MS,camapua,6,715
+MS,alcinopolis,6,715
+MS,amambai,6,715
+MS,bataguassu,5,715
+MS,cassilandia,5,715
+MS,ladario,5,715
+MS,miranda,4,715
+MS,juti,4,715
+MS,fatima do sul,4,715
+MS,aquidauana,4,715
+MS,caarapo,4,715
+MS,bela vista,3,715
+MS,itapora,3,715
+MS,ivinhema,3,715
+MS,dois irmaos do buriti,3,715
+MS,jardim,3,715
+MS,mundo novo,3,715
+MS,nova alvorada do sul,3,715
+MS,sonora,2,715
+MS,deodapolis,2,715
+MS,jaraguari,2,715
+MS,itaquirai,2,715
+MS,bodoquena,2,715
+MS,bataypora,2,715
+MS,corguinho,2,715
+MS,anastacio,2,715
+MS,agua clara,2,715
+MS,anaurilandia,1,715
+MS,angelica,1,715
+MS,anhandui,1,715
+MS,coronel sapucaia,1,715
+MS,caracol,1,715
+MS,brasilandia,1,715
+MS,bandeirantes,1,715
+MS,bataipora,1,715
+MS,gloria de dourados,1,715
+MS,guia lopes da laguna,1,715
+MS,inocencia,1,715
+MS,eldorado,1,715
+MS,tacuru,1,715
+MS,terenos,1,715
+MS,vicentina,1,715
+MS,paraiso das aguas,1,715
+MS,rio negro,1,715
+MS,sanga puita,1,715
+MS,paranhos,1,715
+MS,pedro gomes,1,715
+MS,porto murtinho,1,715
+MS,prudencio thomaz,1,715
+MS,ribas do rio pardo,1,715
+PB,joao pessoa,256,536
+PB,campina grande,68,536
+PB,patos,16,536
+PB,cajazeiras,12,536
+PB,guarabira,10,536
+PB,cabedelo,7,536
+PB,bayeux,7,536
+PB,santa rita,7,536
+PB,sousa,7,536
+PB,mamanguape,6,536
+PB,pombal,6,536
+PB,esperanca,6,536
+PB,catole do rocha,6,536
+PB,bananeiras,5,536
+PB,santa luzia,5,536
+PB,queimadas,5,536
+PB,cuite,4,536
+PB,coremas,3,536
+PB,pocinhos,3,536
+PB,sume,3,536
+PB,sao bento,3,536
+PB,imaculada,3,536
+PB,mari,3,536
+PB,soledade,3,536
+PB,itaporanga,2,536
+PB,junco do serido,2,536
+PB,picui,2,536
+PB,pedras de fogo,2,536
+PB,rio tinto,2,536
+PB,sape,2,536
+PB,cubati,2,536
+PB,conceicao,2,536
+PB,barra de santa rosa,2,536
+PB,frei martinho,2,536
+PB,areia,2,536
+PB,agua branca,2,536
+PB,alagoinha,2,536
+PB,alhandra,2,536
+PB,arara,1,536
+PB,araruna,1,536
+PB,alagoa grande,1,536
+PB,alagoa nova,1,536
+PB,areial,1,536
+PB,aroeiras,1,536
+PB,assuncao,1,536
+PB,belem,1,536
+PB,bonito de santa fe,1,536
+PB,brejo do cruz,1,536
+PB,brejo dos santos,1,536
+PB,ibiara,1,536
+PB,curral de cima,1,536
+PB,desterro,1,536
+PB,fagundes,1,536
+PB,caldas brandao,1,536
+PB,serra branca,1,536
+PB,solanea,1,536
+PB,santa cecilia,1,536
+PB,remigio,1,536
+PB,riacho de santo antonio,1,536
+PB,santo andre,1,536
+PB,sao bentinho,1,536
+PB,sao francisco,1,536
+PB,sao jose dos cordeiros,1,536
+PB,sao mamede,1,536
+PB,teixeira,1,536
+PB,triunfo,1,536
+PB,uirauna,1,536
+PB,varzea,1,536
+PB,pianco,1,536
+PB,manaira,1,536
+PB,paulista,1,536
+PB,pedra branca,1,536
+PB,pedra lavrada,1,536
+PB,pilar,1,536
+PB,pirpirituba,1,536
+PB,pitanga de estrada,1,536
+PB,pitimbu,1,536
+PB,prata,1,536
+PB,princesa isabel,1,536
+PB,puxinana,1,536
+PB,juripiranga,1,536
+PB,juru,1,536
+PB,lagoa,1,536
+PB,livramento,1,536
+PB,lucena,1,536
+PB,mae d'agua,1,536
+PB,jacarau,1,536
+PB,jerico,1,536
+PB,inga,1,536
+PB,montadas,1,536
+PB,nova floresta,1,536
+PB,passagem,1,536
+PI,teresina,281,495
+PI,parnaiba,23,495
+PI,picos,19,495
+PI,floriano,18,495
+PI,cocal,8,495
+PI,campo maior,7,495
+PI,piripiri,7,495
+PI,sao raimundo nonato,7,495
+PI,sao joao do piaui,6,495
+PI,regeneracao,6,495
+PI,oeiras,6,495
+PI,altos,5,495
+PI,urucui,4,495
+PI,valenca do piaui,4,495
+PI,bom jesus,4,495
+PI,corrente,4,495
+PI,eliseu martins,4,495
+PI,esperantina,4,495
+PI,guadalupe,4,495
+PI,jose de freitas,3,495
+PI,fronteiras,3,495
+PI,barras,3,495
+PI,sao miguel do tapuio,3,495
+PI,luzilandia,3,495
+PI,paulistana,3,495
+PI,pedro ii,2,495
+PI,pimenteiras,2,495
+PI,novo oriente do piaui,2,495
+PI,itaueira,2,495
+PI,piracuruca,2,495
+PI,castelo do piaui,2,495
+PI,buriti dos lopes,2,495
+PI,avelino lopes,2,495
+PI,agua branca,2,495
+PI,alegrete do piaui,1,495
+PI,alvorada do gurgueia,1,495
+PI,amarante,1,495
+PI,angical do piaui,1,495
+PI,baixa grande do ribeiro,1,495
+PI,caldeirao grande do piaui,1,495
+PI,campo alegre do fidalgo,1,495
+PI,campo grande do piaui,1,495
+PI,caxingo,1,495
+PI,conceicao do caninde,1,495
+PI,bertolinia,1,495
+PI,bocaina,1,495
+PI,canto do buriti,1,495
+PI,gilbues,1,495
+PI,francisco santos,1,495
+PI,demerval lobao,1,495
+PI,lagoa de sao francisco,1,495
+PI,lagoa do piaui,1,495
+PI,lagoinha do piaui,1,495
+PI,luis correia,1,495
+PI,ilha grande,1,495
+PI,inhuma,1,495
+PI,isaias coelho,1,495
+PI,sebastiao leal,1,495
+PI,simplicio mendes,1,495
+PI,sao jose do divino,1,495
+PI,sao jose do piaui,1,495
+PI,sao lourenco do piaui,1,495
+PI,varzea grande,1,495
+PI,uniao,1,495
+PI,joaquim pires,1,495
+PI,marcos parente,1,495
+PI,matias olimpio,1,495
+PI,nova santa rita,1,495
+PI,pio ix,1,495
+PI,rio grande do piaui,1,495
+PI,santa cruz do piaui,1,495
+PI,redencao do gurgueia,1,495
+RN,natal,207,485
+RN,parnamirim,59,485
+RN,mossoro,37,485
+RN,caico,10,485
+RN,pau dos ferros,9,485
+RN,currais novos,8,485
+RN,alto do rodrigues,8,485
+RN,sao goncalo do amarante,7,485
+RN,macaiba,5,485
+RN,macau,5,485
+RN,jucurutu,4,485
+RN,parelhas,4,485
+RN,santa cruz,4,485
+RN,sao miguel,4,485
+RN,upanema,3,485
+RN,sao jose de mipibu,3,485
+RN,patu,3,485
+RN,nova cruz,3,485
+RN,jardim do serido,3,485
+RN,apodi,3,485
+RN,areia branca,3,485
+RN,acu,3,485
+RN,caraubas,3,485
+RN,goianinha,3,485
+RN,guamare,2,485
+RN,ielmo marinho,2,485
+RN,itau,2,485
+RN,carnaubais,2,485
+RN,ceara-mirim,2,485
+RN,extremoz,2,485
+RN,alexandria,2,485
+RN,joao camara,2,485
+RN,lagoa nova,2,485
+RN,martins,2,485
+RN,pendencias,2,485
+RN,portalegre,2,485
+RN,santana do serido,2,485
+RN,sao miguel do gostoso,2,485
+RN,sao paulo do potengi,2,485
+RN,sao vicente,2,485
+RN,serra de sao bento,2,485
+RN,rodolfo fernandes,2,485
+RN,severiano melo,1,485
+RN,sitio novo,1,485
+RN,tenente ananias,1,485
+RN,tibau do sul,1,485
+RN,sao rafael,1,485
+RN,sao tome,1,485
+RN,vera cruz,1,485
+RN,vicosa,1,485
+RN,vila flor,1,485
+RN,santo antonio,1,485
+RN,sao fernando,1,485
+RN,santa maria,1,485
+RN,sao jose do campestre,1,485
+RN,sao jose do serido,1,485
+RN,sao joao do sabugi,1,485
+RN,riacho da cruz,1,485
+RN,poco de pedra,1,485
+RN,pedra preta,1,485
+RN,pedro velho,1,485
+RN,messias targino,1,485
+RN,montanhas,1,485
+RN,monte alegre,1,485
+RN,lagoa salgada,1,485
+RN,marcelino vieira,1,485
+RN,jose da penha,1,485
+RN,lagoa d'anta,1,485
+RN,lagoa de velhos,1,485
+RN,almino afonso,1,485
+RN,angicos,1,485
+RN,antonio martins,1,485
+RN,barauna,1,485
+RN,bodo,1,485
+RN,caicara do norte,1,485
+RN,agua nova,1,485
+RN,acari,1,485
+RN,felipe guerra,1,485
+RN,florania,1,485
+RN,francisco dantas,1,485
+RN,frutuoso gomes,1,485
+RN,galinhos,1,485
+RN,coronel joao pessoa,1,485
+RN,carnauba dos dantas,1,485
+RN,jandaira,1,485
+RN,janduis,1,485
+RN,japi,1,485
+RN,jardim de piranhas,1,485
+RN,ipueira,1,485
+RN,governador dix-sept rosado,1,485
+AL,maceio,247,413
+AL,arapiraca,29,413
+AL,palmeira dos indios,8,413
+AL,penedo,8,413
+AL,teotonio vilela,8,413
+AL,rio largo,6,413
+AL,maragogi,5,413
+AL,delmiro gouveia,4,413
+AL,batalha,3,413
+AL,belem,3,413
+AL,coruripe,3,413
+AL,olho d'agua das flores,3,413
+AL,pilar,3,413
+AL,santana do mundau,3,413
+AL,sao jose da laje,2,413
+AL,sao luis do quitunde,2,413
+AL,sao miguel dos campos,2,413
+AL,satuba,2,413
+AL,tanque d'arca,2,413
+AL,pindoba,2,413
+AL,porto calvo,2,413
+AL,piacabucu,2,413
+AL,mar vermelho,2,413
+AL,maravilha,2,413
+AL,mata grande,2,413
+AL,boca da mata,2,413
+AL,barra de santo antonio,2,413
+AL,barra de sao miguel,2,413
+AL,feliz deserto,2,413
+AL,campo alegre,2,413
+AL,anadia,2,413
+AL,colonia leopoldina,2,413
+AL,ibateguara,2,413
+AL,igaci,2,413
+AL,igreja nova,2,413
+AL,inhapi,2,413
+AL,jequia da praia,2,413
+AL,junqueiro,2,413
+AL,uniao dos palmares,2,413
+AL,paulo jacinto,2,413
+AL,vicosa,1,413
+AL,traipu,1,413
+AL,lagoa da canoa,1,413
+AL,luziapolis,1,413
+AL,canapi,1,413
+AL,coite do noia,1,413
+AL,girau do ponciano,1,413
+AL,dois riachos,1,413
+AL,atalaia,1,413
+AL,cacimbinhas,1,413
+AL,cajueiro,1,413
+AL,agua branca,1,413
+AL,matriz de camaragibe,1,413
+AL,monteiropolis,1,413
+AL,murici,1,413
+AL,novo lino,1,413
+AL,marechal deodoro,1,413
+AL,maribondo,1,413
+AL,paripueira,1,413
+AL,passo de camaragibe,1,413
+AL,pau d'arco,1,413
+AL,santa luzia do norte,1,413
+AL,santana do ipanema,1,413
+AL,porto de pedras,1,413
+AL,taquarana,1,413
+AL,sao sebastiao,1,413
+AL,sao jose da tapera,1,413
+AL,sao bras,1,413
+SE,aracaju,225,350
+SE,itabaiana,16,350
+SE,nossa senhora do socorro,14,350
+SE,lagarto,11,350
+SE,estancia,9,350
+SE,sao cristovao,7,350
+SE,simao dias,7,350
+SE,poco verde,4,350
+SE,propria,4,350
+SE,sao francisco,3,350
+SE,cedro de sao joao,3,350
+SE,umbauba,3,350
+SE,capela,3,350
+SE,barra dos coqueiros,3,350
+SE,carmopolis,2,350
+SE,itabaianinha,2,350
+SE,caninde de sao francisco,2,350
+SE,tobias barreto,2,350
+SE,tomar do geru,2,350
+SE,nossa senhora da gloria,2,350
+SE,nossa senhora das dores,1,350
+SE,nossa senhora de lourdes,1,350
+SE,cristinapolis,1,350
+SE,pinhao,1,350
+SE,pirambu,1,350
+SE,poco redondo,1,350
+SE,sao miguel do aleixo,1,350
+SE,telha,1,350
+SE,riachuelo,1,350
+SE,ribeiropolis,1,350
+SE,santo amaro das brotas,1,350
+SE,itabi,1,350
+SE,itaporanga d'ajuda,1,350
+SE,japaratuba,1,350
+SE,japoata,1,350
+SE,macambira,1,350
+SE,malhador,1,350
+SE,monte alegre de sergipe,1,350
+SE,neopolis,1,350
+SE,aquidaba,1,350
+SE,general maynard,1,350
+SE,graccho cardoso,1,350
+SE,indiaroba,1,350
+SE,boquim,1,350
+SE,brejo grande,1,350
+SE,campo do brito,1,350
+TO,palmas,91,280
+TO,araguaina,41,280
+TO,gurupi,24,280
+TO,paraiso do tocantins,10,280
+TO,porto nacional,8,280
+TO,tocantinopolis,7,280
+TO,dianopolis,7,280
+TO,alvorada,6,280
+TO,araguatins,5,280
+TO,lagoa da confusao,5,280
+TO,guarai,4,280
+TO,formoso do araguaia,4,280
+TO,conceicao do tocantins,3,280
+TO,cristalandia,3,280
+TO,pedro afonso,3,280
+TO,xambioa,3,280
+TO,taguatinga,3,280
+TO,colinas do tocantins,3,280
+TO,colmeia,2,280
+TO,cariri do tocantins,2,280
+TO,arraias,2,280
+TO,bandeirantes do tocantins,2,280
+TO,barrolandia,2,280
+TO,alianca do tocantins,2,280
+TO,sitio novo do tocantins,2,280
+TO,pindorama do tocantins,2,280
+TO,parana,2,280
+TO,miranorte,2,280
+TO,couto de magalhaes,2,280
+TO,goianorte,2,280
+TO,lajeado,1,280
+TO,natividade,1,280
+TO,nova olinda,1,280
+TO,novo alegre,1,280
+TO,novo jardim,1,280
+TO,peixe,1,280
+TO,pequizeiro,1,280
+TO,pium,1,280
+TO,praia norte,1,280
+TO,pugmil,1,280
+TO,sandolandia,1,280
+TO,silvanopolis,1,280
+TO,almas,1,280
+TO,ananas,1,280
+TO,aparecida do rio negro,1,280
+TO,araguacu,1,280
+TO,buriti do tocantins,1,280
+TO,augustinopolis,1,280
+TO,arapoema,1,280
+TO,carmolandia,1,280
+TO,centenario,1,280
+TO,combinado,1,280
+TO,divinopolis do tocantins,1,280
+TO,duere,1,280
+TO,esperantina,1,280
+TO,fatima,1,280
+RO,porto velho,113,253
+RO,vilhena,18,253
+RO,ji-parana,17,253
+RO,cacoal,13,253
+RO,ariquemes,13,253
+RO,pimenta bueno,8,253
+RO,rolim de moura,7,253
+RO,espigao do oeste,6,253
+RO,jaru,6,253
+RO,extrema,4,253
+RO,sao miguel do guapore,4,253
+RO,ouro preto do oeste,4,253
+RO,urupa,3,253
+RO,guajara-mirim,3,253
+RO,colorado do oeste,3,253
+RO,machadinho d'oeste,3,253
+RO,alta floresta d'oeste,3,253
+RO,buritis,2,253
+RO,nova brasilandia d'oeste,2,253
+RO,nova mamore,2,253
+RO,costa marques,2,253
+RO,presidente medici,2,253
+RO,seringueiras,2,253
+RO,sao francisco do guapore,2,253
+RO,cujubim,1,253
+RO,candeias do jamari,1,253
+RO,castanheiras,1,253
+RO,cerejeiras,1,253
+RO,ministro andreazza,1,253
+RO,mirante da serra,1,253
+RO,mutum parana,1,253
+RO,cabixi,1,253
+RO,cacaulandia,1,253
+RO,alto paraiso,1,253
+RO,alvorada d'oeste,1,253
+AM,manaus,140,148
+AM,humaita,4,148
+AM,urucurituba,2,148
+AM,itacoatiara,1,148
+AM,coari,1,148
+AC,rio branco,70,81
+AC,cruzeiro do sul,3,81
+AC,senador guiomard,2,81
+AC,xapuri,2,81
+AC,brasileia,1,81
+AC,epitaciolandia,1,81
+AC,manoel urbano,1,81
+AC,porto acre,1,81
+AP,macapa,54,68
+AP,santana,9,68
+AP,laranjal do jari,2,68
+AP,vitoria do jari,1,68
+AP,oiapoque,1,68
+AP,porto grande,1,68
+RR,boa vista,45,46
+RR,bonfim,1,46
