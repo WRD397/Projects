@@ -1,0 +1,13 @@
+1. As we can see for 36months section, there is more number of paid loans ith respect to 60 months. As, in 60 months section, bad debt and good debts are of equal probability.
+
+.2 We saw that, the more the grades, the more the chance to be defaulters. Like for grade E, F, G the percentage of defaulters are pretty high.
+
+3. For applicants with Rent as home_ownership, the probability to be a defaulter is a bit high.
+
+4. Among purposes, people having small business are least likely to repay.So, may be charge them high interest rate so that, the installments they atleast pay, the company can compensate from these.
+
+5. People using Direct Pay as application type, are most likely to be defaulters.
+
+6. If we analyze number of open accounts, then for defaulters,the number of open account is slightly high.
+
+7.
