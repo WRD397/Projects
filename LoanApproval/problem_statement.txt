@@ -1,0 +1,10 @@
+Problem Statement : 
+
+A non banking finance company. 
+
+* Deals with individual where the RISK IS HIGH.
+* Individuals who got rejected from the banks.
+* As, the risk is high, the INTEREST RATE is also HIGHER than usual banks.
+
+** So, the trade off is that if the individual returns the loan the profit is very high but the chance that the individual pay back loan is low.
+** The problem statement is about telling whether the person will repay or not beforehand to maximize the profit.
