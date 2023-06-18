@@ -1,3 +1,36 @@
+Precision vs Recall : 
+* Precision  =  TP / ( TP + FP )
+* Recall = TP / ( TP + FN )
+
+* So, when we can't afford to have FP ie. high number of FALSELY PREDICTED POSITIVES ( ie. actually negatives ), then we choose Precision to be a dominant metric. So, in simpler wordsm FP refers to misunderstanding GOOD ONES AS BAD. High precision reduces this. Eg : In Spam filtering of emails, we usually need high precision.
+
+* When we can't afford to have high FN ie. high number of FALSELY PREDICTED NEGATIVES ( ie. actually positives ), then we choose Recall to be dominant metric. FN refers to misunderstanding BAD ONES AS GOOD. High recall reduces this. Eg: In medical domain, we usually need high recall.
+
+
+** So, for a STABLE HIGHLY REPUTED BANK, where the reputation is at stake the bank needs to make sure IT DOES NOT GIVE LOANS to BAD PERSONS. So, RECALL NEEDS TO BE HIGH for them.
+
+** For a small financial institute, Growth is More Important, they need to take high risks, so they can't afford high recall. Here Precision would be default metric so that FP (misunderstanding of good ones as bad) is very low.
+
+*** But of course to  go with f1 score = 2 * Precision * recall  /  ( Precision + Recall ), would be safest.
+
+
+
+
+> # Insights and Recommendation :
+. Percentage of Customers fully paid their Loan Amount : 80.44%
+
+. Loan Amount and Installment correlation : According to the computed pearson correlation, the amount of correlation is pretty high.  
+
+. Majority of people has home ownership as Owned Home.
+
+. It is true that people with grade A are more likely to pay their loan.
+
+. Top 2 afforded job titles are - Teacher, Manager
+
+. From a bank perspective, it's better to choose f1 score or Recall and Precision. ROC AUC is also a good choice as it considers the effect of TPR and FPR. 
+
+. AS, we can see that recall score is better than precision. Means the model is better at minimizing the FNs or Type 1 Error. The error made while labelling the good customers as bad, is minimized well. So, the model will help the bank maintain their credability to the customers. But comparatively low precision will push the bank at risk of investing in Bad debts. 
+
 1. As we can see for 36months section, there is more number of paid loans ith respect to 60 months. As, in 60 months section, bad debt and good debts are of equal probability.
 
 .2 We saw that, the more the grades, the more the chance to be defaulters. Like for grade E, F, G the percentage of defaulters are pretty high.
@@ -7,7 +40,5 @@
 4. Among purposes, people having small business are least likely to repay.So, may be charge them high interest rate so that, the installments they atleast pay, the company can compensate from these.
 
 5. People using Direct Pay as application type, are most likely to be defaulters.
-
-6. If we analyze number of open accounts, then for defaulters,the number of open account is slightly high.
 
 7.
