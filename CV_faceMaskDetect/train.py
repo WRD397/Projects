@@ -1,8 +1,5 @@
 import os
-import random
-import pandas as pd
-from customModule import dataPreprocess, modelVGG16, faceMaskDetect
-from sklearn.model_selection import train_test_split
+from customModule import dataPreprocess, modelVGG16
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -23,7 +20,7 @@ def main() -> None:
 
     ### Train Test
     print('splitting into Train Test')
-    X_train, X_test, y_train, y_test = train_test_split(X,y, test_size=0.2)
+    X_train, X_test, y_train, y_test = dp.train_test(X=X, y=y)
     print(f"X_train shape : {X_train.shape}")
     print(f"X_test shape : {X_test.shape}")
 
