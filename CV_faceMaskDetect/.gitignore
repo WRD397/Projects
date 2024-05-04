@@ -1,2 +1,8 @@
 _faceMaskDetect_CV_venv/
+_py39_faceMaskDetect_CV_venv/
+
 datasets/
+__pycache__/
+.mypy_cache/
+
+.env
