@@ -1,8 +1,4 @@
 from customModules import handDetector
-import cv2 as cv
-import mediapipe as mp
-import numpy as np
-import time
 
 def main() -> None:
     
