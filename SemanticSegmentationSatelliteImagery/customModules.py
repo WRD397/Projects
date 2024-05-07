@@ -164,6 +164,30 @@ class modelBuilding(mainBase):
     print('y_test : ',y_test.shape)
     
     return X_train, X_test, y_train, y_test
+  
+
+  def trainTestLoader(self) -> tuple[list]:
+    X_train = np.load(os.path.join(self.trainTestRootDir, 'X_train.npy'))
+    X_test = np.load(os.path.join(self.trainTestRootDir, 'X_test.npy'))
+    y_train = np.load(os.path.join(self.trainTestRootDir, 'y_train.npy'))
+    y_test = np.load(os.path.join(self.trainTestRootDir, 'y_test.npy'))
+    print('X_train : ',X_train.shape)
+    print('X_test : ',X_test.shape)
+    print('y_train : ',y_train.shape)
+    print('y_test : ',y_test.shape)
+
+    return X_train, X_test, y_train, y_test
+  
+  def jaccardCoef(self, y_pred:list, y_test:list)->float:
+    y_pred_flat = kerasBackend.flatten(y_pred)
+    y_true_flat = kerasBackend.flatten(y_test)
+    intersection = kerasBackend.sum(y_pred_flat*y_true_flat)
+    union = kerasBackend.sum(y_pred_flat) + kerasBackend.sum(y_true_flat) - intersection
+
+    jCoef = intersection + 1.0 / (union + 1.0)
+
+    return jCoef
+
 
 
 
