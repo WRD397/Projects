@@ -192,6 +192,90 @@ class modelBuilding(mainBase):
     jCoef = intersection + 1.0 / (union + 1.0)
 
     return jCoef
+  
+  def unetMulti(self):
+    """
+    Trying to replicate the original model architecture, proposed in the U-NET Paper
+    The original paper was written in the regards of Biomedical images, so for satellite images, the hyperparameters won't be same - experimentations needed
+    """
+
+    nClasses=5
+    imageHeight = self.image_patch_size
+    imageWidth = self.image_patch_size
+    imageChannels = 1
+    
+    ### Layes
+    ############# Max Pooling
+    #### 1st Chunk
+    input=Input((imageHeight, imageWidth, imageChannels))
+    sourceInput = input
+    c1=Conv2D(filters=16, kernel_size=(3,3), activation='relu', kernel_initializer='he_normal', padding='same')(sourceInput)
+    c1=Dropout(0.2)(c1)
+    c1=Conv2D(filters=16, kernel_size=(3,3), activation='relu', kernel_initializer='he_normal', padding='same')(c1)
+    pool1 = MaxPooling2D(c1)
+
+    #### 2nd Chunk
+    c2=Conv2D(filters=32, kernel_size=(3,3), activation='relu', kernel_initializer='he_normal', padding='same')(pool1)
+    c2=Dropout(0.2)(c2)
+    c2=Conv2D(filters=32, kernel_size=(3,3), activation='relu', kernel_initializer='he_normal', padding='same')(c2)
+    pool2 = MaxPooling2D(c2)
+
+    #### 3rd Chunk
+    c3=Conv2D(filters=64, kernel_size=(3,3), activation='relu', kernel_initializer='he_normal', padding='same')(pool2)
+    c3=Dropout(0.2)(c3)
+    c3=Conv2D(filters=64, kernel_size=(3,3), activation='relu', kernel_initializer='he_normal', padding='same')(c3)
+    pool3 = MaxPooling2D(c3)
+
+    #### 4th Chunk
+    c4=Conv2D(filters=128, kernel_size=(3,3), activation='relu', kernel_initializer='he_normal', padding='same')(pool3)
+    c4=Dropout(0.2)(c4)
+    c4=Conv2D(filters=128, kernel_size=(3,3), activation='relu', kernel_initializer='he_normal', padding='same')(c4)
+    pool4 = MaxPooling2D(c4)
+
+
+    ############# Base
+    #### 5th Chunk
+    b=Conv2D(filters=256, kernel_size=(3,3), activation='relu', kernel_initializer='he_normal', padding='same')(pool4)
+    b=Dropout(0.2)(b)
+    b=Conv2D(filters=256, kernel_size=(3,3), activation='relu', kernel_initializer='he_normal', padding='same')(b)
+
+
+    ############# Up Conversion
+    #### 6th Chunk
+    u1=Conv2DTranspose(128, (2,2), strides=(2,2), padding='same')(b)
+    u1 = concatenate([u1, c4])
+    u1 = Conv2D(filters=128, kernel_size=(3,3), activation='relu', kernel_initializer='he_normal', padding='same')(u1)
+    u1 = Dropout(0.2)(u1)
+    u1 = Conv2D(filters=128, kernel_size=(3,3), activation='relu', kernel_initializer='he_normal', padding='same')(u1)
+
+    #### 7th Chunk
+    u2 = Conv2DTranspose(64, (2,2), strides=(2,2), padding='same')(u1)
+    u2 = concatenate([u2, c3])
+    u2 = Conv2D(filters=64, kernel_size=(3,3), activation='relu', kernel_initializer='he_normal', padding='same')(u2)
+    u2 = Dropout(0.2)(u2)
+    u2 = Conv2D(filters=64, kernel_size=(3,3), activation='relu', kernel_initializer='he_normal', padding='same')(u2)
+
+    #### 7th Chunk
+    u3 = Conv2DTranspose(64, (2,2), strides=(2,2), padding='same')(u2)
+    u3 = concatenate([u3, c2])
+    u3 = Conv2D(filters=32, kernel_size=(3,3), activation='relu', kernel_initializer='he_normal', padding='same')(u3)
+    u3 = Dropout(0.2)(u3)
+    u3 = Conv2D(filters=32, kernel_size=(3,3), activation='relu', kernel_initializer='he_normal', padding='same')(u3)
+
+    #### 7th Chunk
+    u4 = Conv2DTranspose(16, (2,2), strides=(2,2), padding='same')(u3)
+    u4 = concatenate([u4, c1], axis=3)
+    u4 = Conv2D(filters=16, kernel_size=(3,3), activation='relu', kernel_initializer='he_normal', padding='same')(u4)
+    u4 = Dropout(0.2)(u4)
+    u4 = Conv2D(filters=16, kernel_size=(3,3), activation='relu', kernel_initializer='he_normal', padding='same')(u4)
+
+
+    ############# Output Layer
+    output = Conv2D(nClasses, (1,1), activation="softmax")(u4)
+
+    model = Model(inputs=[input], outputs=[output])
+
+    return model
 
 
 
